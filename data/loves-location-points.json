@@ -1,0 +1,5145 @@
+{
+  "source": "https://www.loves.com/locations",
+  "source_endpoint": "https://www.loves.com/api/fetch_stores",
+  "retrieved_on": "2026-10-21",
+  "stores": [
+    {
+      "number": 5,
+      "city": "Kingfisher",
+      "state": "OK",
+      "latitude": 35.85947,
+      "longitude": -97.932291
+    },
+    {
+      "number": 7,
+      "city": "Gunnison",
+      "state": "CO",
+      "latitude": 38.543928,
+      "longitude": -106.934411
+    },
+    {
+      "number": 9,
+      "city": "Benson",
+      "state": "AZ",
+      "latitude": 31.962166,
+      "longitude": -110.346561
+    },
+    {
+      "number": 10,
+      "city": "Hollis",
+      "state": "OK",
+      "latitude": 34.682126,
+      "longitude": -99.914491
+    },
+    {
+      "number": 11,
+      "city": "Great Bend",
+      "state": "KS",
+      "latitude": 38.360978,
+      "longitude": -98.754033
+    },
+    {
+      "number": 12,
+      "city": "La Junta",
+      "state": "CO",
+      "latitude": 37.987695,
+      "longitude": -103.538643
+    },
+    {
+      "number": 13,
+      "city": "Marlow",
+      "state": "OK",
+      "latitude": 34.656669,
+      "longitude": -97.958098
+    },
+    {
+      "number": 15,
+      "city": "Fairview",
+      "state": "OK",
+      "latitude": 36.272312,
+      "longitude": -98.48015
+    },
+    {
+      "number": 16,
+      "city": "Woodward",
+      "state": "OK",
+      "latitude": 36.417812,
+      "longitude": -99.384695
+    },
+    {
+      "number": 18,
+      "city": "Alva",
+      "state": "OK",
+      "latitude": 36.7972,
+      "longitude": -98.6502
+    },
+    {
+      "number": 19,
+      "city": "Guymon",
+      "state": "OK",
+      "latitude": 36.677248,
+      "longitude": -101.4813
+    },
+    {
+      "number": 21,
+      "city": "Beaver",
+      "state": "OK",
+      "latitude": 36.809774,
+      "longitude": -100.51913
+    },
+    {
+      "number": 22,
+      "city": "Clayton",
+      "state": "NM",
+      "latitude": 36.445421,
+      "longitude": -103.179939
+    },
+    {
+      "number": 23,
+      "city": "Lamar",
+      "state": "CO",
+      "latitude": 38.095707,
+      "longitude": -102.62027
+    },
+    {
+      "number": 24,
+      "city": "Liberal",
+      "state": "KS",
+      "latitude": 37.032167,
+      "longitude": -100.927851
+    },
+    {
+      "number": 28,
+      "city": "Purcell",
+      "state": "OK",
+      "latitude": 35.014805,
+      "longitude": -97.366676
+    },
+    {
+      "number": 29,
+      "city": "Duncan",
+      "state": "OK",
+      "latitude": 34.500686,
+      "longitude": -97.947455
+    },
+    {
+      "number": 30,
+      "city": "Monte Vista",
+      "state": "CO",
+      "latitude": 37.578299,
+      "longitude": -106.13721
+    },
+    {
+      "number": 31,
+      "city": "Elk City",
+      "state": "OK",
+      "latitude": 35.412046,
+      "longitude": -99.416007
+    },
+    {
+      "number": 32,
+      "city": "Pratt",
+      "state": "KS",
+      "latitude": 37.646163,
+      "longitude": -98.722077
+    },
+    {
+      "number": 33,
+      "city": "Mangum",
+      "state": "OK",
+      "latitude": 34.876558,
+      "longitude": -99.502906
+    },
+    {
+      "number": 36,
+      "city": "Buffalo",
+      "state": "OK",
+      "latitude": 36.841361,
+      "longitude": -99.63009
+    },
+    {
+      "number": 37,
+      "city": "Springfield",
+      "state": "CO",
+      "latitude": 37.402798,
+      "longitude": -102.615985
+    },
+    {
+      "number": 38,
+      "city": "Lamar",
+      "state": "CO",
+      "latitude": 38.088626,
+      "longitude": -102.616049
+    },
+    {
+      "number": 39,
+      "city": "Syracuse",
+      "state": "KS",
+      "latitude": 37.980266,
+      "longitude": -101.75035
+    },
+    {
+      "number": 46,
+      "city": "Hooker",
+      "state": "OK",
+      "latitude": 36.859012,
+      "longitude": -101.20904
+    },
+    {
+      "number": 47,
+      "city": "Woodward",
+      "state": "OK",
+      "latitude": 36.432993,
+      "longitude": -99.415187
+    },
+    {
+      "number": 48,
+      "city": "Hennessey",
+      "state": "OK",
+      "latitude": 36.102541,
+      "longitude": -97.898929
+    },
+    {
+      "number": 49,
+      "city": "Shawnee",
+      "state": "OK",
+      "latitude": 35.341862,
+      "longitude": -96.929385
+    },
+    {
+      "number": 50,
+      "city": "Pauls Valley",
+      "state": "OK",
+      "latitude": 34.739876,
+      "longitude": -97.22278
+    },
+    {
+      "number": 51,
+      "city": "Tecumseh",
+      "state": "OK",
+      "latitude": 35.260391,
+      "longitude": -96.93616
+    },
+    {
+      "number": 52,
+      "city": "Ada",
+      "state": "OK",
+      "latitude": 34.776835,
+      "longitude": -96.669484
+    },
+    {
+      "number": 54,
+      "city": "Ardmore",
+      "state": "OK",
+      "latitude": 34.174068,
+      "longitude": -97.14092
+    },
+    {
+      "number": 55,
+      "city": "Comanche",
+      "state": "OK",
+      "latitude": 34.368249,
+      "longitude": -97.963736
+    },
+    {
+      "number": 56,
+      "city": "Marlow",
+      "state": "OK",
+      "latitude": 34.640062,
+      "longitude": -97.958286
+    },
+    {
+      "number": 57,
+      "city": "Henryetta",
+      "state": "OK",
+      "latitude": 35.439449,
+      "longitude": -95.976804
+    },
+    {
+      "number": 58,
+      "city": "Dodge City",
+      "state": "KS",
+      "latitude": 37.753654,
+      "longitude": -100.028774
+    },
+    {
+      "number": 59,
+      "city": "Phillipsburg",
+      "state": "KS",
+      "latitude": 39.755533,
+      "longitude": -99.318155
+    },
+    {
+      "number": 60,
+      "city": "Norton",
+      "state": "KS",
+      "latitude": 39.838867,
+      "longitude": -99.89259
+    },
+    {
+      "number": 61,
+      "city": "Colby",
+      "state": "KS",
+      "latitude": 39.397481,
+      "longitude": -101.047874
+    },
+    {
+      "number": 62,
+      "city": "Dodge City",
+      "state": "KS",
+      "latitude": 37.753132,
+      "longitude": -100.011806
+    },
+    {
+      "number": 68,
+      "city": "Durant",
+      "state": "OK",
+      "latitude": 34.002079,
+      "longitude": -96.373347
+    },
+    {
+      "number": 69,
+      "city": "Durant",
+      "state": "OK",
+      "latitude": 33.992406,
+      "longitude": -96.381474
+    },
+    {
+      "number": 74,
+      "city": "Lindsay",
+      "state": "OK",
+      "latitude": 34.83731,
+      "longitude": -97.608794
+    },
+    {
+      "number": 78,
+      "city": "Tahlequah",
+      "state": "OK",
+      "latitude": 35.915552,
+      "longitude": -94.968889
+    },
+    {
+      "number": 80,
+      "city": "Ada",
+      "state": "OK",
+      "latitude": 34.774878,
+      "longitude": -96.686152
+    },
+    {
+      "number": 84,
+      "city": "Madill",
+      "state": "OK",
+      "latitude": 34.086724,
+      "longitude": -96.769831
+    },
+    {
+      "number": 85,
+      "city": "Guthrie",
+      "state": "OK",
+      "latitude": 35.865466,
+      "longitude": -97.425862
+    },
+    {
+      "number": 86,
+      "city": "Chickasha",
+      "state": "OK",
+      "latitude": 35.037398,
+      "longitude": -97.937327
+    },
+    {
+      "number": 88,
+      "city": "Yukon",
+      "state": "OK",
+      "latitude": 35.507526,
+      "longitude": -97.759717
+    },
+    {
+      "number": 94,
+      "city": "Broken Bow",
+      "state": "OK",
+      "latitude": 34.022267,
+      "longitude": -94.739957
+    },
+    {
+      "number": 95,
+      "city": "Chickasha",
+      "state": "OK",
+      "latitude": 35.051922,
+      "longitude": -97.94584
+    },
+    {
+      "number": 97,
+      "city": "Arkansas City",
+      "state": "KS",
+      "latitude": 37.082717,
+      "longitude": -97.0396
+    },
+    {
+      "number": 114,
+      "city": "El Reno",
+      "state": "OK",
+      "latitude": 35.508628,
+      "longitude": -97.937649
+    },
+    {
+      "number": 123,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.579725,
+      "longitude": -97.549777
+    },
+    {
+      "number": 200,
+      "city": "Amarillo",
+      "state": "TX",
+      "latitude": 35.191927,
+      "longitude": -101.760945
+    },
+    {
+      "number": 201,
+      "city": "Elk City",
+      "state": "OK",
+      "latitude": 35.423039,
+      "longitude": -99.372528
+    },
+    {
+      "number": 203,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.457659,
+      "longitude": -97.688649
+    },
+    {
+      "number": 204,
+      "city": "Eufaula",
+      "state": "OK",
+      "latitude": 35.305832,
+      "longitude": -95.588248
+    },
+    {
+      "number": 205,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.594066,
+      "longitude": -97.436685
+    },
+    {
+      "number": 206,
+      "city": "Loxley",
+      "state": "AL",
+      "latitude": 30.654386,
+      "longitude": -87.759422
+    },
+    {
+      "number": 207,
+      "city": "Coachella",
+      "state": "CA",
+      "latitude": 33.717419,
+      "longitude": -116.171266
+    },
+    {
+      "number": 208,
+      "city": "Canton",
+      "state": "MS",
+      "latitude": 32.604052,
+      "longitude": -90.072554
+    },
+    {
+      "number": 209,
+      "city": "Greenwood",
+      "state": "LA",
+      "latitude": 32.444532,
+      "longitude": -93.983016
+    },
+    {
+      "number": 210,
+      "city": "Albuquerque",
+      "state": "NM",
+      "latitude": 35.107254,
+      "longitude": -106.648875
+    },
+    {
+      "number": 211,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.377871,
+      "longitude": -97.495873
+    },
+    {
+      "number": 213,
+      "city": "Tonkawa",
+      "state": "OK",
+      "latitude": 36.651021,
+      "longitude": -97.342011
+    },
+    {
+      "number": 214,
+      "city": "El Paso",
+      "state": "TX",
+      "latitude": 31.65976,
+      "longitude": -106.237409
+    },
+    {
+      "number": 215,
+      "city": "Gallup",
+      "state": "NM",
+      "latitude": 35.505681,
+      "longitude": -108.833921
+    },
+    {
+      "number": 216,
+      "city": "Midlothian",
+      "state": "TX",
+      "latitude": 32.482947,
+      "longitude": -97.011128
+    },
+    {
+      "number": 218,
+      "city": "Guthrie",
+      "state": "OK",
+      "latitude": 35.878956,
+      "longitude": -97.39613
+    },
+    {
+      "number": 219,
+      "city": "Seminole",
+      "state": "OK",
+      "latitude": 35.381641,
+      "longitude": -96.670348
+    },
+    {
+      "number": 220,
+      "city": "Cheyenne",
+      "state": "WY",
+      "latitude": 41.098166,
+      "longitude": -104.848606
+    },
+    {
+      "number": 221,
+      "city": "Zanesville",
+      "state": "OH",
+      "latitude": 39.968384,
+      "longitude": -81.90321
+    },
+    {
+      "number": 222,
+      "city": "Richmond ",
+      "state": "IN",
+      "latitude": 39.870945,
+      "longitude": -84.933264
+    },
+    {
+      "number": 223,
+      "city": "Ripon ",
+      "state": "CA",
+      "latitude": 37.755193,
+      "longitude": -121.14151
+    },
+    {
+      "number": 225,
+      "city": "Evergreen",
+      "state": "AL",
+      "latitude": 31.419105,
+      "longitude": -87.00765
+    },
+    {
+      "number": 226,
+      "city": "Pueblo",
+      "state": "CO",
+      "latitude": 38.34223,
+      "longitude": -104.622979
+    },
+    {
+      "number": 227,
+      "city": "Mc Calla",
+      "state": "AL",
+      "latitude": 33.278775,
+      "longitude": -87.09893
+    },
+    {
+      "number": 228,
+      "city": "Auburndale",
+      "state": "FL",
+      "latitude": 28.155314,
+      "longitude": -81.800734
+    },
+    {
+      "number": 229,
+      "city": "Claude",
+      "state": "TX",
+      "latitude": 35.218765,
+      "longitude": -101.381536
+    },
+    {
+      "number": 230,
+      "city": "Lost Hills",
+      "state": "CA",
+      "latitude": 35.616981,
+      "longitude": -119.65888
+    },
+    {
+      "number": 231,
+      "city": "Hillsboro",
+      "state": "TX",
+      "latitude": 32.00952,
+      "longitude": -97.093528
+    },
+    {
+      "number": 233,
+      "city": "Waller",
+      "state": "TX",
+      "latitude": 30.064458,
+      "longitude": -95.905556
+    },
+    {
+      "number": 234,
+      "city": "Katy",
+      "state": "TX",
+      "latitude": 29.779813,
+      "longitude": -95.881907
+    },
+    {
+      "number": 235,
+      "city": "Saint Joseph",
+      "state": "MO",
+      "latitude": 39.72238,
+      "longitude": -94.786901
+    },
+    {
+      "number": 236,
+      "city": "N Little Rock",
+      "state": "AR",
+      "latitude": 34.786217,
+      "longitude": -92.125573
+    },
+    {
+      "number": 237,
+      "city": "Tallulah",
+      "state": "LA",
+      "latitude": 32.387821,
+      "longitude": -91.197692
+    },
+    {
+      "number": 238,
+      "city": "Shepherdsville",
+      "state": "KY",
+      "latitude": 37.979467,
+      "longitude": -85.694363
+    },
+    {
+      "number": 239,
+      "city": "Max Meadows",
+      "state": "VA",
+      "latitude": 36.951409,
+      "longitude": -80.883067
+    },
+    {
+      "number": 240,
+      "city": "Port Allen",
+      "state": "LA",
+      "latitude": 30.445527,
+      "longitude": -91.242686
+    },
+    {
+      "number": 242,
+      "city": "San Antonio",
+      "state": "TX",
+      "latitude": 29.31101,
+      "longitude": -98.617826
+    },
+    {
+      "number": 243,
+      "city": "Lake Charles",
+      "state": "LA",
+      "latitude": 30.253127,
+      "longitude": -93.013108
+    },
+    {
+      "number": 244,
+      "city": "Jackson",
+      "state": "TN",
+      "latitude": 35.679204,
+      "longitude": -88.74243
+    },
+    {
+      "number": 245,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.377833,
+      "longitude": -97.573646
+    },
+    {
+      "number": 246,
+      "city": "Fernley",
+      "state": "NV",
+      "latitude": 39.618046,
+      "longitude": -119.266446
+    },
+    {
+      "number": 247,
+      "city": "Memphis",
+      "state": "TX",
+      "latitude": 34.723061,
+      "longitude": -100.533731
+    },
+    {
+      "number": 248,
+      "city": "Clinton",
+      "state": "OK",
+      "latitude": 35.51826,
+      "longitude": -98.870888
+    },
+    {
+      "number": 249,
+      "city": "Williamsville",
+      "state": "IL",
+      "latitude": 39.960959,
+      "longitude": -89.562296
+    },
+    {
+      "number": 250,
+      "city": "Amarillo",
+      "state": "TX",
+      "latitude": 35.187837,
+      "longitude": -102.011289
+    },
+    {
+      "number": 252,
+      "city": "McLoud",
+      "state": "OK",
+      "latitude": 35.381807,
+      "longitude": -97.08836
+    },
+    {
+      "number": 253,
+      "city": "Erick",
+      "state": "OK",
+      "latitude": 35.223877,
+      "longitude": -99.869643
+    },
+    {
+      "number": 254,
+      "city": "Mooresville",
+      "state": "IN",
+      "latitude": 39.615839,
+      "longitude": -86.478508
+    },
+    {
+      "number": 255,
+      "city": "Webbers Falls",
+      "state": "OK",
+      "latitude": 35.48604,
+      "longitude": -95.149265
+    },
+    {
+      "number": 256,
+      "city": "Van Horn",
+      "state": "TX",
+      "latitude": 31.040102,
+      "longitude": -104.819253
+    },
+    {
+      "number": 257,
+      "city": "Milan",
+      "state": "NM",
+      "latitude": 35.183319,
+      "longitude": -107.899758
+    },
+    {
+      "number": 258,
+      "city": "Ottawa",
+      "state": "KS",
+      "latitude": 38.572786,
+      "longitude": -95.265489
+    },
+    {
+      "number": 259,
+      "city": "Las Cruces",
+      "state": "NM",
+      "latitude": 32.269415,
+      "longitude": -106.922518
+    },
+    {
+      "number": 260,
+      "city": "Norman",
+      "state": "OK",
+      "latitude": 35.183634,
+      "longitude": -97.49899
+    },
+    {
+      "number": 261,
+      "city": "Amarillo",
+      "state": "TX",
+      "latitude": 35.117693,
+      "longitude": -101.907173
+    },
+    {
+      "number": 262,
+      "city": "Tucumcari",
+      "state": "NM",
+      "latitude": 35.158604,
+      "longitude": -103.701308
+    },
+    {
+      "number": 263,
+      "city": "Lawton",
+      "state": "OK",
+      "latitude": 34.713757,
+      "longitude": -98.401628
+    },
+    {
+      "number": 264,
+      "city": "Luling",
+      "state": "TX",
+      "latitude": 29.653691,
+      "longitude": -97.592282
+    },
+    {
+      "number": 265,
+      "city": "Eloy",
+      "state": "AZ",
+      "latitude": 32.80643,
+      "longitude": -111.672093
+    },
+    {
+      "number": 266,
+      "city": "Ardmore",
+      "state": "OK",
+      "latitude": 34.188225,
+      "longitude": -97.170773
+    },
+    {
+      "number": 267,
+      "city": "Morrilton",
+      "state": "AR",
+      "latitude": 35.172923,
+      "longitude": -92.743251
+    },
+    {
+      "number": 268,
+      "city": "Atoka",
+      "state": "OK",
+      "latitude": 34.366934,
+      "longitude": -96.141025
+    },
+    {
+      "number": 269,
+      "city": "Wichita Falls",
+      "state": "TX",
+      "latitude": 33.886704,
+      "longitude": -98.468811
+    },
+    {
+      "number": 270,
+      "city": "Ranger",
+      "state": "TX",
+      "latitude": 32.441748,
+      "longitude": -98.694499
+    },
+    {
+      "number": 271,
+      "city": "Ozark",
+      "state": "AR",
+      "latitude": 35.511466,
+      "longitude": -93.822309
+    },
+    {
+      "number": 272,
+      "city": "Kingman",
+      "state": "AZ",
+      "latitude": 35.19925,
+      "longitude": -113.90403
+    },
+    {
+      "number": 273,
+      "city": "Weatherford",
+      "state": "TX",
+      "latitude": 32.742896,
+      "longitude": -97.742837
+    },
+    {
+      "number": 274,
+      "city": "Okemah",
+      "state": "OK",
+      "latitude": 35.420881,
+      "longitude": -96.30056
+    },
+    {
+      "number": 275,
+      "city": "Palestine",
+      "state": "AR",
+      "latitude": 34.986489,
+      "longitude": -90.905235
+    },
+    {
+      "number": 276,
+      "city": "Lordsburg",
+      "state": "NM",
+      "latitude": 32.353872,
+      "longitude": -108.73557
+    },
+    {
+      "number": 277,
+      "city": "Prescott",
+      "state": "AR",
+      "latitude": 33.828782,
+      "longitude": -93.394759
+    },
+    {
+      "number": 278,
+      "city": "Joseph City",
+      "state": "AZ",
+      "latitude": 34.954751,
+      "longitude": -110.311242
+    },
+    {
+      "number": 279,
+      "city": "Mount Vernon",
+      "state": "TX",
+      "latitude": 33.163946,
+      "longitude": -95.218039
+    },
+    {
+      "number": 280,
+      "city": "Buckeye",
+      "state": "AZ",
+      "latitude": 33.431284,
+      "longitude": -112.591725
+    },
+    {
+      "number": 281,
+      "city": "Fort Worth",
+      "state": "TX",
+      "latitude": 32.598737,
+      "longitude": -97.317578
+    },
+    {
+      "number": 282,
+      "city": "Joplin",
+      "state": "MO",
+      "latitude": 37.013202,
+      "longitude": -94.54399
+    },
+    {
+      "number": 283,
+      "city": "Rockwall",
+      "state": "TX",
+      "latitude": 32.918189,
+      "longitude": -96.419311
+    },
+    {
+      "number": 284,
+      "city": "Edinburg",
+      "state": "TX",
+      "latitude": 26.385897,
+      "longitude": -98.141242
+    },
+    {
+      "number": 285,
+      "city": "Santa Rosa",
+      "state": "NM",
+      "latitude": 34.946713,
+      "longitude": -104.637716
+    },
+    {
+      "number": 286,
+      "city": "Quartzsite",
+      "state": "AZ",
+      "latitude": 33.657299,
+      "longitude": -114.241226
+    },
+    {
+      "number": 287,
+      "city": "Van",
+      "state": "TX",
+      "latitude": 32.50828,
+      "longitude": -95.642465
+    },
+    {
+      "number": 288,
+      "city": "Fairfield",
+      "state": "TX",
+      "latitude": 31.728217,
+      "longitude": -96.182736
+    },
+    {
+      "number": 289,
+      "city": "Minden ",
+      "state": "LA",
+      "latitude": 32.581978,
+      "longitude": -93.248804
+    },
+    {
+      "number": 290,
+      "city": "Lufkin",
+      "state": "TX",
+      "latitude": 31.328488,
+      "longitude": -94.689716
+    },
+    {
+      "number": 291,
+      "city": "Richmond",
+      "state": "KY",
+      "latitude": 37.84322,
+      "longitude": -84.324537
+    },
+    {
+      "number": 292,
+      "city": "Dwight",
+      "state": "IL",
+      "latitude": 41.11424,
+      "longitude": -88.4153
+    },
+    {
+      "number": 293,
+      "city": "Cleveland",
+      "state": "TX",
+      "latitude": 30.354701,
+      "longitude": -95.09128
+    },
+    {
+      "number": 294,
+      "city": "Dallas",
+      "state": "TX",
+      "latitude": 32.640809,
+      "longitude": -96.839275
+    },
+    {
+      "number": 295,
+      "city": "Chouteau",
+      "state": "OK",
+      "latitude": 36.163483,
+      "longitude": -95.342987
+    },
+    {
+      "number": 296,
+      "city": "Gila Bend",
+      "state": "AZ",
+      "latitude": 32.94432,
+      "longitude": -112.733253
+    },
+    {
+      "number": 297,
+      "city": "Edna",
+      "state": "TX",
+      "latitude": 28.988878,
+      "longitude": -96.62541
+    },
+    {
+      "number": 298,
+      "city": "Encinal",
+      "state": "TX",
+      "latitude": 28.045577,
+      "longitude": -99.348797
+    },
+    {
+      "number": 299,
+      "city": "Anna",
+      "state": "TX",
+      "latitude": 33.345047,
+      "longitude": -96.584193
+    },
+    {
+      "number": 300,
+      "city": "Bennett",
+      "state": "CO",
+      "latitude": 39.741216,
+      "longitude": -104.434745
+    },
+    {
+      "number": 301,
+      "city": "Post Falls",
+      "state": "ID",
+      "latitude": 47.711161,
+      "longitude": -117.00409
+    },
+    {
+      "number": 302,
+      "city": "Boise City",
+      "state": "OK",
+      "latitude": 36.729194,
+      "longitude": -102.5003
+    },
+    {
+      "number": 303,
+      "city": "Waddy",
+      "state": "KY",
+      "latitude": 38.152234,
+      "longitude": -85.07025
+    },
+    {
+      "number": 304,
+      "city": "Steele",
+      "state": "AL",
+      "latitude": 33.933261,
+      "longitude": -86.191228
+    },
+    {
+      "number": 305,
+      "city": "Toms Brook",
+      "state": "VA",
+      "latitude": 38.96563,
+      "longitude": -78.439457
+    },
+    {
+      "number": 307,
+      "city": "Jackson",
+      "state": "GA",
+      "latitude": 33.208091,
+      "longitude": -84.05852
+    },
+    {
+      "number": 308,
+      "city": "Marion",
+      "state": "NC",
+      "latitude": 35.657872,
+      "longitude": -81.96337
+    },
+    {
+      "number": 309,
+      "city": "Aurora ",
+      "state": "NE",
+      "latitude": 40.818908,
+      "longitude": -97.99827
+    },
+    {
+      "number": 310,
+      "city": "Wamsutter",
+      "state": "WY",
+      "latitude": 41.675893,
+      "longitude": -107.982457
+    },
+    {
+      "number": 311,
+      "city": "Waco ",
+      "state": "GA",
+      "latitude": 33.691297,
+      "longitude": -85.189547
+    },
+    {
+      "number": 312,
+      "city": "Roseburg",
+      "state": "OR",
+      "latitude": 43.150503,
+      "longitude": -123.367895
+    },
+    {
+      "number": 313,
+      "city": "Matthews   ",
+      "state": "MO",
+      "latitude": 36.758179,
+      "longitude": -89.541289
+    },
+    {
+      "number": 314,
+      "city": "Christiana",
+      "state": "TN",
+      "latitude": 35.724209,
+      "longitude": -86.319661
+    },
+    {
+      "number": 315,
+      "city": "Houston",
+      "state": "TX",
+      "latitude": 29.798591,
+      "longitude": -95.269023
+    },
+    {
+      "number": 316,
+      "city": "Ormond Beach",
+      "state": "FL",
+      "latitude": 29.339663,
+      "longitude": -81.13461
+    },
+    {
+      "number": 317,
+      "city": "Skippers",
+      "state": "VA",
+      "latitude": 36.605447,
+      "longitude": -77.560647
+    },
+    {
+      "number": 318,
+      "city": "Ina",
+      "state": "IL",
+      "latitude": 38.155469,
+      "longitude": -88.910841
+    },
+    {
+      "number": 319,
+      "city": "Pittsboro",
+      "state": "IN",
+      "latitude": 39.877254,
+      "longitude": -86.473992
+    },
+    {
+      "number": 320,
+      "city": "Dublin",
+      "state": "GA",
+      "latitude": 32.495759,
+      "longitude": -82.981753
+    },
+    {
+      "number": 321,
+      "city": "Corbin",
+      "state": "KY",
+      "latitude": 36.977491,
+      "longitude": -84.116242
+    },
+    {
+      "number": 322,
+      "city": "Roscoe",
+      "state": "IL",
+      "latitude": 42.455985,
+      "longitude": -88.998069
+    },
+    {
+      "number": 323,
+      "city": "Marion",
+      "state": "IN",
+      "latitude": 40.554335,
+      "longitude": -85.548979
+    },
+    {
+      "number": 324,
+      "city": "Mifflinville ",
+      "state": "PA",
+      "latitude": 41.026768,
+      "longitude": -76.318757
+    },
+    {
+      "number": 325,
+      "city": "Tifton",
+      "state": "GA",
+      "latitude": 31.415715,
+      "longitude": -83.503054
+    },
+    {
+      "number": 326,
+      "city": "Orangeburg ",
+      "state": "SC",
+      "latitude": 33.457976,
+      "longitude": -80.735242
+    },
+    {
+      "number": 327,
+      "city": "Kingsville",
+      "state": "TX",
+      "latitude": 27.529889,
+      "longitude": -97.842143
+    },
+    {
+      "number": 328,
+      "city": "Chandler ",
+      "state": "AZ",
+      "latitude": 33.279875,
+      "longitude": -111.962298
+    },
+    {
+      "number": 329,
+      "city": "Clovis",
+      "state": "NM",
+      "latitude": 34.394791,
+      "longitude": -103.144305
+    },
+    {
+      "number": 330,
+      "city": "Baxter ",
+      "state": "TN",
+      "latitude": 36.139694,
+      "longitude": -85.63023
+    },
+    {
+      "number": 331,
+      "city": "Hutchins",
+      "state": "TX",
+      "latitude": 32.623952,
+      "longitude": -96.69378
+    },
+    {
+      "number": 332,
+      "city": "Burbank",
+      "state": "OH",
+      "latitude": 40.996205,
+      "longitude": -81.995846
+    },
+    {
+      "number": 333,
+      "city": "Fort Mill",
+      "state": "SC",
+      "latitude": 35.000639,
+      "longitude": -80.977899
+    },
+    {
+      "number": 334,
+      "city": "Heyburn ",
+      "state": "ID",
+      "latitude": 42.564532,
+      "longitude": -113.740836
+    },
+    {
+      "number": 335,
+      "city": "Cedar City",
+      "state": "UT",
+      "latitude": 37.725785,
+      "longitude": -113.051367
+    },
+    {
+      "number": 336,
+      "city": "Marshall ",
+      "state": "MI",
+      "latitude": 42.280206,
+      "longitude": -84.93073
+    },
+    {
+      "number": 337,
+      "city": "Albert Lea",
+      "state": "MN",
+      "latitude": 43.6598,
+      "longitude": -93.31592
+    },
+    {
+      "number": 338,
+      "city": "Richmond Hill ",
+      "state": "GA",
+      "latitude": 31.960662,
+      "longitude": -81.331564
+    },
+    {
+      "number": 339,
+      "city": "Odessa ",
+      "state": "TX",
+      "latitude": 31.817324,
+      "longitude": -102.380801
+    },
+    {
+      "number": 340,
+      "city": "Las Vegas",
+      "state": "NV",
+      "latitude": 36.381561,
+      "longitude": -114.896529
+    },
+    {
+      "number": 341,
+      "city": "Rolla ",
+      "state": "MO",
+      "latitude": 37.981593,
+      "longitude": -91.71933
+    },
+    {
+      "number": 342,
+      "city": "Three Rivers",
+      "state": "TX",
+      "latitude": 28.52122,
+      "longitude": -98.18523
+    },
+    {
+      "number": 343,
+      "city": "Toomsuba",
+      "state": "MS",
+      "latitude": 32.41107,
+      "longitude": -88.505495
+    },
+    {
+      "number": 344,
+      "city": "Memphis",
+      "state": "TN",
+      "latitude": 35.075135,
+      "longitude": -89.95095
+    },
+    {
+      "number": 345,
+      "city": "Oakdale",
+      "state": "WI",
+      "latitude": 43.961187,
+      "longitude": -90.378159
+    },
+    {
+      "number": 346,
+      "city": "Columbia",
+      "state": "TN",
+      "latitude": 35.643953,
+      "longitude": -86.891465
+    },
+    {
+      "number": 347,
+      "city": "Boonville",
+      "state": "MO",
+      "latitude": 38.933867,
+      "longitude": -92.77955
+    },
+    {
+      "number": 348,
+      "city": "Calvert City",
+      "state": "KY",
+      "latitude": 37.003735,
+      "longitude": -88.31864
+    },
+    {
+      "number": 349,
+      "city": "Yuma",
+      "state": "AZ",
+      "latitude": 32.686341,
+      "longitude": -114.582581
+    },
+    {
+      "number": 350,
+      "city": "Nogales",
+      "state": "AZ",
+      "latitude": 31.428598,
+      "longitude": -110.962381
+    },
+    {
+      "number": 351,
+      "city": "Utica ",
+      "state": "IL",
+      "latitude": 41.370086,
+      "longitude": -89.00914
+    },
+    {
+      "number": 352,
+      "city": "Jeffersonville ",
+      "state": "OH",
+      "latitude": 39.620768,
+      "longitude": -83.612786
+    },
+    {
+      "number": 353,
+      "city": "Fargo",
+      "state": "ND",
+      "latitude": 46.831448,
+      "longitude": -96.844139
+    },
+    {
+      "number": 354,
+      "city": "Thomson",
+      "state": "GA",
+      "latitude": 33.514228,
+      "longitude": -82.503612
+    },
+    {
+      "number": 355,
+      "city": "Memphis ",
+      "state": "IN",
+      "latitude": 38.490873,
+      "longitude": -85.76988
+    },
+    {
+      "number": 356,
+      "city": "North Baltimore",
+      "state": "OH",
+      "latitude": 41.17372,
+      "longitude": -83.65167
+    },
+    {
+      "number": 357,
+      "city": "Fountain",
+      "state": "CO",
+      "latitude": 38.723378,
+      "longitude": -104.729361
+    },
+    {
+      "number": 358,
+      "city": "Hamburg",
+      "state": "PA",
+      "latitude": 40.517378,
+      "longitude": -76.111101
+    },
+    {
+      "number": 359,
+      "city": "Emerson",
+      "state": "GA",
+      "latitude": 34.118857,
+      "longitude": -84.743165
+    },
+    {
+      "number": 360,
+      "city": "Horse Cave",
+      "state": "KY",
+      "latitude": 37.201373,
+      "longitude": -85.935198
+    },
+    {
+      "number": 361,
+      "city": "Newton ",
+      "state": "IA",
+      "latitude": 41.680428,
+      "longitude": -92.999058
+    },
+    {
+      "number": 362,
+      "city": "Vinton",
+      "state": "LA",
+      "latitude": 30.17292,
+      "longitude": -93.58812
+    },
+    {
+      "number": 363,
+      "city": "Ocala",
+      "state": "FL",
+      "latitude": 29.267562,
+      "longitude": -82.198425
+    },
+    {
+      "number": 364,
+      "city": "Charleston",
+      "state": "TN",
+      "latitude": 35.290197,
+      "longitude": -84.817591
+    },
+    {
+      "number": 365,
+      "city": "Wells ",
+      "state": "NV",
+      "latitude": 41.098956,
+      "longitude": -114.959945
+    },
+    {
+      "number": 366,
+      "city": "Jonestown ",
+      "state": "PA",
+      "latitude": 40.450148,
+      "longitude": -76.515328
+    },
+    {
+      "number": 367,
+      "city": "Le Roy",
+      "state": "IL",
+      "latitude": 40.340395,
+      "longitude": -88.760803
+    },
+    {
+      "number": 368,
+      "city": "Clanton",
+      "state": "AL",
+      "latitude": 32.844151,
+      "longitude": -86.591963
+    },
+    {
+      "number": 370,
+      "city": "Hubbard",
+      "state": "OH",
+      "latitude": 41.173058,
+      "longitude": -80.56913
+    },
+    {
+      "number": 371,
+      "city": "Dillon",
+      "state": "SC",
+      "latitude": 34.419584,
+      "longitude": -79.41594
+    },
+    {
+      "number": 372,
+      "city": "Ontario",
+      "state": "OR",
+      "latitude": 44.045823,
+      "longitude": -116.977143
+    },
+    {
+      "number": 373,
+      "city": "Colbert ",
+      "state": "OK",
+      "latitude": 33.881314,
+      "longitude": -96.500253
+    },
+    {
+      "number": 374,
+      "city": "Barstow",
+      "state": "CA",
+      "latitude": 34.857121,
+      "longitude": -117.091981
+    },
+    {
+      "number": 375,
+      "city": "Hearne",
+      "state": "TX",
+      "latitude": 30.895404,
+      "longitude": -96.60271
+    },
+    {
+      "number": 376,
+      "city": "Hogansville",
+      "state": "GA",
+      "latitude": 33.159438,
+      "longitude": -84.871354
+    },
+    {
+      "number": 377,
+      "city": "Hudson",
+      "state": "CO",
+      "latitude": 40.077008,
+      "longitude": -104.649147
+    },
+    {
+      "number": 378,
+      "city": "Ripley",
+      "state": "WV",
+      "latitude": 38.757195,
+      "longitude": -81.69044
+    },
+    {
+      "number": 379,
+      "city": "Lee",
+      "state": "FL",
+      "latitude": 30.377124,
+      "longitude": -83.297401
+    },
+    {
+      "number": 380,
+      "city": "Rhome",
+      "state": "TX",
+      "latitude": 33.05703,
+      "longitude": -97.484072
+    },
+    {
+      "number": 381,
+      "city": "Falkville",
+      "state": "AL",
+      "latitude": 34.367333,
+      "longitude": -86.89353
+    },
+    {
+      "number": 382,
+      "city": "Tulare",
+      "state": "CA",
+      "latitude": 36.180909,
+      "longitude": -119.330122
+    },
+    {
+      "number": 383,
+      "city": "Sparta",
+      "state": "KY",
+      "latitude": 38.69365,
+      "longitude": -84.938639
+    },
+    {
+      "number": 384,
+      "city": "Greenville",
+      "state": "IL",
+      "latitude": 38.87324,
+      "longitude": -89.38713
+    },
+    {
+      "number": 385,
+      "city": "Hinton ",
+      "state": "OK",
+      "latitude": 35.526555,
+      "longitude": -98.351492
+    },
+    {
+      "number": 386,
+      "city": "Lake Havasu City",
+      "state": "AZ",
+      "latitude": 34.724959,
+      "longitude": -114.315844
+    },
+    {
+      "number": 387,
+      "city": "Fair Play",
+      "state": "SC",
+      "latitude": 34.50482,
+      "longitude": -82.96193
+    },
+    {
+      "number": 388,
+      "city": "Batesville",
+      "state": "MS",
+      "latitude": 34.35134,
+      "longitude": -89.91601
+    },
+    {
+      "number": 389,
+      "city": "Conneaut",
+      "state": "OH",
+      "latitude": 41.913966,
+      "longitude": -80.570646
+    },
+    {
+      "number": 390,
+      "city": "North Platte",
+      "state": "NE",
+      "latitude": 41.10262,
+      "longitude": -100.72389
+    },
+    {
+      "number": 391,
+      "city": "Saint Paul",
+      "state": "IN",
+      "latitude": 39.449756,
+      "longitude": -85.626449
+    },
+    {
+      "number": 392,
+      "city": "Tehachapi",
+      "state": "CA",
+      "latitude": 35.12607,
+      "longitude": -118.40815
+    },
+    {
+      "number": 393,
+      "city": "McComb",
+      "state": "MS",
+      "latitude": 31.190892,
+      "longitude": -90.485619
+    },
+    {
+      "number": 394,
+      "city": "Demotte",
+      "state": "IN",
+      "latitude": 41.143469,
+      "longitude": -87.26102
+    },
+    {
+      "number": 395,
+      "city": "Kankakee",
+      "state": "IL",
+      "latitude": 41.07094,
+      "longitude": -87.868694
+    },
+    {
+      "number": 396,
+      "city": "Newberry",
+      "state": "SC",
+      "latitude": 34.296351,
+      "longitude": -81.543761
+    },
+    {
+      "number": 397,
+      "city": "Blacksburg",
+      "state": "SC",
+      "latitude": 35.156688,
+      "longitude": -81.478429
+    },
+    {
+      "number": 398,
+      "city": "Tupelo",
+      "state": "MS",
+      "latitude": 34.316321,
+      "longitude": -88.791441
+    },
+    {
+      "number": 399,
+      "city": "Lambsburg",
+      "state": "VA",
+      "latitude": 36.578653,
+      "longitude": -80.74052
+    },
+    {
+      "number": 401,
+      "city": "Baytown",
+      "state": "TX",
+      "latitude": 29.797963,
+      "longitude": -95.032623
+    },
+    {
+      "number": 402,
+      "city": "Biloxi",
+      "state": "MS",
+      "latitude": 30.452073,
+      "longitude": -88.93331
+    },
+    {
+      "number": 403,
+      "city": "Binghamton",
+      "state": "NY",
+      "latitude": 42.101592,
+      "longitude": -75.835785
+    },
+    {
+      "number": 404,
+      "city": "Bordentown",
+      "state": "NJ",
+      "latitude": 40.119963,
+      "longitude": -74.707648
+    },
+    {
+      "number": 405,
+      "city": "Brunswick",
+      "state": "GA",
+      "latitude": 31.137752,
+      "longitude": -81.571797
+    },
+    {
+      "number": 407,
+      "city": "Carlisle",
+      "state": "PA",
+      "latitude": 40.230349,
+      "longitude": -77.144086
+    },
+    {
+      "number": 410,
+      "city": "Corning",
+      "state": "CA",
+      "latitude": 39.907601,
+      "longitude": -122.196352
+    },
+    {
+      "number": 411,
+      "city": "Clive",
+      "state": "IA",
+      "latitude": 41.613365,
+      "longitude": -93.780718
+    },
+    {
+      "number": 412,
+      "city": "Dunn",
+      "state": "NC",
+      "latitude": 35.339906,
+      "longitude": -78.55693
+    },
+    {
+      "number": 413,
+      "city": "Ellensburg",
+      "state": "WA",
+      "latitude": 47.007647,
+      "longitude": -120.585862
+    },
+    {
+      "number": 414,
+      "city": "Haubstadt",
+      "state": "IN",
+      "latitude": 38.17337,
+      "longitude": -87.55159
+    },
+    {
+      "number": 415,
+      "city": "Fort Pierce",
+      "state": "FL",
+      "latitude": 27.413167,
+      "longitude": -80.397701
+    },
+    {
+      "number": 417,
+      "city": "Gary",
+      "state": "IN",
+      "latitude": 41.561796,
+      "longitude": -87.35664
+    },
+    {
+      "number": 418,
+      "city": "Grayson",
+      "state": "KY",
+      "latitude": 38.341101,
+      "longitude": -82.941906
+    },
+    {
+      "number": 419,
+      "city": "Houston",
+      "state": "TX",
+      "latitude": 29.797437,
+      "longitude": -95.369817
+    },
+    {
+      "number": 420,
+      "city": "Flowood",
+      "state": "MS",
+      "latitude": 32.279214,
+      "longitude": -90.155359
+    },
+    {
+      "number": 429,
+      "city": "Nashville",
+      "state": "TN",
+      "latitude": 36.205575,
+      "longitude": -86.771637
+    },
+    {
+      "number": 432,
+      "city": "Oak Creek",
+      "state": "WI",
+      "latitude": 42.871169,
+      "longitude": -87.940847
+    },
+    {
+      "number": 435,
+      "city": "Ruther Glen",
+      "state": "VA",
+      "latitude": 37.937868,
+      "longitude": -77.465815
+    },
+    {
+      "number": 436,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "latitude": 40.769949,
+      "longitude": -111.939921
+    },
+    {
+      "number": 441,
+      "city": "Santa Nella",
+      "state": "CA",
+      "latitude": 37.111363,
+      "longitude": -121.016625
+    },
+    {
+      "number": 445,
+      "city": "Sioux Falls",
+      "state": "SD",
+      "latitude": 43.604138,
+      "longitude": -96.712132
+    },
+    {
+      "number": 448,
+      "city": "Tacoma",
+      "state": "WA",
+      "latitude": 47.245328,
+      "longitude": -122.384434
+    },
+    {
+      "number": 449,
+      "city": "Troutdale",
+      "state": "OR",
+      "latitude": 45.543612,
+      "longitude": -122.391721
+    },
+    {
+      "number": 450,
+      "city": "West Memphis",
+      "state": "AR",
+      "latitude": 35.153922,
+      "longitude": -90.138293
+    },
+    {
+      "number": 451,
+      "city": "Whiteland",
+      "state": "IN",
+      "latitude": 39.551539,
+      "longitude": -86.044627
+    },
+    {
+      "number": 452,
+      "city": "Pauls Valley",
+      "state": "OK",
+      "latitude": 34.708611,
+      "longitude": -97.242519
+    },
+    {
+      "number": 453,
+      "city": "Cottondale",
+      "state": "FL",
+      "latitude": 30.749024,
+      "longitude": -85.382951
+    },
+    {
+      "number": 454,
+      "city": "Napavine",
+      "state": "WA",
+      "latitude": 46.603206,
+      "longitude": -122.908266
+    },
+    {
+      "number": 455,
+      "city": "Ellis",
+      "state": "KS",
+      "latitude": 38.947691,
+      "longitude": -99.560096
+    },
+    {
+      "number": 456,
+      "city": "Perrysburg",
+      "state": "OH",
+      "latitude": 41.537233,
+      "longitude": -83.466653
+    },
+    {
+      "number": 457,
+      "city": "Little Rock",
+      "state": "AR",
+      "latitude": 34.657214,
+      "longitude": -92.413231
+    },
+    {
+      "number": 458,
+      "city": "Strafford",
+      "state": "MO",
+      "latitude": 37.27699,
+      "longitude": -93.11256
+    },
+    {
+      "number": 459,
+      "city": "Whitestown",
+      "state": "IN",
+      "latitude": 39.979492,
+      "longitude": -86.395742
+    },
+    {
+      "number": 460,
+      "city": "Benson",
+      "state": "AZ",
+      "latitude": 31.962406,
+      "longitude": -110.344844
+    },
+    {
+      "number": 461,
+      "city": "Saint Louis",
+      "state": "MO",
+      "latitude": 38.684953,
+      "longitude": -90.218238
+    },
+    {
+      "number": 463,
+      "city": "Seguin",
+      "state": "TX",
+      "latitude": 29.561981,
+      "longitude": -98.034281
+    },
+    {
+      "number": 464,
+      "city": "Comfort",
+      "state": "TX",
+      "latitude": 29.98203,
+      "longitude": -98.903241
+    },
+    {
+      "number": 369,
+      "city": "Dickson",
+      "state": "TN",
+      "latitude": 35.99203,
+      "longitude": -87.48819
+    },
+    {
+      "number": 466,
+      "city": "Jasper",
+      "state": "AL",
+      "latitude": 33.790777,
+      "longitude": -87.241662
+    },
+    {
+      "number": 447,
+      "city": "Anthony",
+      "state": "TX",
+      "latitude": 31.997879,
+      "longitude": -106.581219
+    },
+    {
+      "number": 468,
+      "city": "Willis",
+      "state": "TX",
+      "latitude": 30.437241,
+      "longitude": -95.497461
+    },
+    {
+      "number": 469,
+      "city": "South Hill",
+      "state": "VA",
+      "latitude": 36.748373,
+      "longitude": -78.098214
+    },
+    {
+      "number": 470,
+      "city": "Jasper",
+      "state": "FL",
+      "latitude": 30.452116,
+      "longitude": -82.933564
+    },
+    {
+      "number": 473,
+      "city": "Leary",
+      "state": "TX",
+      "latitude": 33.463426,
+      "longitude": -94.204244
+    },
+    {
+      "number": 474,
+      "city": "Williston",
+      "state": "ND",
+      "latitude": 48.243802,
+      "longitude": -103.621143
+    },
+    {
+      "number": 476,
+      "city": "Davenport",
+      "state": "IA",
+      "latitude": 41.604403,
+      "longitude": -90.623937
+    },
+    {
+      "number": 479,
+      "city": "Sioux City",
+      "state": "IA",
+      "latitude": 42.434652,
+      "longitude": -96.379902
+    },
+    {
+      "number": 478,
+      "city": "Idaho Falls",
+      "state": "ID",
+      "latitude": 43.436962,
+      "longitude": -112.119846
+    },
+    {
+      "number": 471,
+      "city": "Natalia",
+      "state": "TX",
+      "latitude": 29.184841,
+      "longitude": -98.846451
+    },
+    {
+      "number": 475,
+      "city": "Sweetwater",
+      "state": "TX",
+      "latitude": 32.450422,
+      "longitude": -100.441752
+    },
+    {
+      "number": 480,
+      "city": "Lenoir City",
+      "state": "TN",
+      "latitude": 35.872378,
+      "longitude": -84.32321
+    },
+    {
+      "number": 481,
+      "city": "Deer Park",
+      "state": "TX",
+      "latitude": 29.706999,
+      "longitude": -95.092708
+    },
+    {
+      "number": 486,
+      "city": "Choctaw",
+      "state": "OK",
+      "latitude": 35.395799,
+      "longitude": -97.266195
+    },
+    {
+      "number": 467,
+      "city": "Fort Pierce",
+      "state": "FL",
+      "latitude": 27.445606,
+      "longitude": -80.398175
+    },
+    {
+      "number": 484,
+      "city": "Weimar",
+      "state": "TX",
+      "latitude": 29.69051,
+      "longitude": -96.77705
+    },
+    {
+      "number": 488,
+      "city": "Bloomsdale",
+      "state": "MO",
+      "latitude": 38.00577,
+      "longitude": -90.22576
+    },
+    {
+      "number": 490,
+      "city": "Jasper",
+      "state": "TN",
+      "latitude": 35.035683,
+      "longitude": -85.58188
+    },
+    {
+      "number": 495,
+      "city": "North Fort Myers",
+      "state": "FL",
+      "latitude": 26.71396,
+      "longitude": -81.81507
+    },
+    {
+      "number": 492,
+      "city": "Pecos",
+      "state": "TX",
+      "latitude": 31.399839,
+      "longitude": -103.479374
+    },
+    {
+      "number": 424,
+      "city": "Lexington",
+      "state": "SC",
+      "latitude": 33.924497,
+      "longitude": -81.290338
+    },
+    {
+      "number": 500,
+      "city": "Eagleville",
+      "state": "MO",
+      "latitude": 40.466248,
+      "longitude": -93.978658
+    },
+    {
+      "number": 517,
+      "city": "Grand Junction",
+      "state": "CO",
+      "latitude": 39.114154,
+      "longitude": -108.646213
+    },
+    {
+      "number": 523,
+      "city": "Duson",
+      "state": "LA",
+      "latitude": 30.25184,
+      "longitude": -92.194809
+    },
+    {
+      "number": 507,
+      "city": "Salisbury",
+      "state": "NC",
+      "latitude": 35.608991,
+      "longitude": -80.517501
+    },
+    {
+      "number": 427,
+      "city": "Dayton",
+      "state": "OH",
+      "latitude": 39.732978,
+      "longitude": -84.208953
+    },
+    {
+      "number": 426,
+      "city": "Shelby",
+      "state": "IA",
+      "latitude": 41.496978,
+      "longitude": -95.451919
+    },
+    {
+      "number": 518,
+      "city": "Springville",
+      "state": "UT",
+      "latitude": 40.162271,
+      "longitude": -111.651681
+    },
+    {
+      "number": 514,
+      "city": "Ritzville",
+      "state": "WA",
+      "latitude": 47.11319,
+      "longitude": -118.36694
+    },
+    {
+      "number": 530,
+      "city": "Moody",
+      "state": "AL",
+      "latitude": 33.577002,
+      "longitude": -86.477205
+    },
+    {
+      "number": 529,
+      "city": "Oglesby",
+      "state": "IL",
+      "latitude": 41.293551,
+      "longitude": -89.086601
+    },
+    {
+      "number": 535,
+      "city": "Londonderry",
+      "state": "PA",
+      "latitude": 40.22626,
+      "longitude": -76.720249
+    },
+    {
+      "number": 539,
+      "city": "Andrews",
+      "state": "TX",
+      "latitude": 32.306081,
+      "longitude": -102.541849
+    },
+    {
+      "number": 551,
+      "city": "Angola",
+      "state": "IN",
+      "latitude": 41.633593,
+      "longitude": -85.050747
+    },
+    {
+      "number": 557,
+      "city": "Searcy",
+      "state": "AR",
+      "latitude": 35.219061,
+      "longitude": -91.716082
+    },
+    {
+      "number": 558,
+      "city": "Dodge City",
+      "state": "KS",
+      "latitude": 37.745046,
+      "longitude": -99.980198
+    },
+    {
+      "number": 560,
+      "city": "Franklin",
+      "state": "VA",
+      "latitude": 36.662523,
+      "longitude": -76.939647
+    },
+    {
+      "number": 542,
+      "city": "Fort Stockton",
+      "state": "TX",
+      "latitude": 30.893377,
+      "longitude": -102.852146
+    },
+    {
+      "number": 559,
+      "city": "Indianola",
+      "state": "MS",
+      "latitude": 33.457669,
+      "longitude": -90.630626
+    },
+    {
+      "number": 564,
+      "city": "Columbus",
+      "state": "MS",
+      "latitude": 33.518251,
+      "longitude": -88.377161
+    },
+    {
+      "number": 553,
+      "city": "Williams",
+      "state": "AZ",
+      "latitude": 35.262781,
+      "longitude": -112.193587
+    },
+    {
+      "number": 538,
+      "city": "Lodi",
+      "state": "CA",
+      "latitude": 38.117395,
+      "longitude": -121.39261
+    },
+    {
+      "number": 561,
+      "city": "Mossy Head",
+      "state": "FL",
+      "latitude": 30.733881,
+      "longitude": -86.349145
+    },
+    {
+      "number": 578,
+      "city": "Hamel",
+      "state": "IL",
+      "latitude": 38.890041,
+      "longitude": -89.834322
+    },
+    {
+      "number": 580,
+      "city": "Tuscumbia",
+      "state": "AL",
+      "latitude": 34.697138,
+      "longitude": -87.635791
+    },
+    {
+      "number": 566,
+      "city": "Ozark",
+      "state": "AL",
+      "latitude": 31.427267,
+      "longitude": -85.619824
+    },
+    {
+      "number": 577,
+      "city": "Shorter",
+      "state": "AL",
+      "latitude": 32.404387,
+      "longitude": -85.956505
+    },
+    {
+      "number": 585,
+      "city": "Neosho",
+      "state": "MO",
+      "latitude": 36.879908,
+      "longitude": -94.427612
+    },
+    {
+      "number": 581,
+      "city": "Salina",
+      "state": "UT",
+      "latitude": 38.932001,
+      "longitude": -111.853582
+    },
+    {
+      "number": 583,
+      "city": "New Baden",
+      "state": "IL",
+      "latitude": 38.534515,
+      "longitude": -89.732292
+    },
+    {
+      "number": 587,
+      "city": "Fond du Lac",
+      "state": "WI",
+      "latitude": 43.748125,
+      "longitude": -88.46358
+    },
+    {
+      "number": 592,
+      "city": "Woodburn",
+      "state": "IN",
+      "latitude": 41.141101,
+      "longitude": -84.850485
+    },
+    {
+      "number": 602,
+      "city": "Box Elder",
+      "state": "SD",
+      "latitude": 44.120411,
+      "longitude": -103.052222
+    },
+    {
+      "number": 594,
+      "city": "Bidwell",
+      "state": "OH",
+      "latitude": 38.875395,
+      "longitude": -82.296051
+    },
+    {
+      "number": 601,
+      "city": "Knightstown",
+      "state": "IN",
+      "latitude": 39.843649,
+      "longitude": -85.557514
+    },
+    {
+      "number": 607,
+      "city": "Jonesboro",
+      "state": "AR",
+      "latitude": 35.803403,
+      "longitude": -90.635167
+    },
+    {
+      "number": 600,
+      "city": "Pendleton",
+      "state": "IN",
+      "latitude": 39.992157,
+      "longitude": -85.845121
+    },
+    {
+      "number": 608,
+      "city": "McPherson",
+      "state": "KS",
+      "latitude": 38.370121,
+      "longitude": -97.614911
+    },
+    {
+      "number": 537,
+      "city": "Cumberland",
+      "state": "MD",
+      "latitude": 39.672643,
+      "longitude": -78.716666
+    },
+    {
+      "number": 603,
+      "city": "Jacksonville",
+      "state": "FL",
+      "latitude": 30.516861,
+      "longitude": -81.632633
+    },
+    {
+      "number": 619,
+      "city": "Poplarville",
+      "state": "MS",
+      "latitude": 30.846383,
+      "longitude": -89.497939
+    },
+    {
+      "number": 610,
+      "city": "Baird",
+      "state": "TX",
+      "latitude": 32.402493,
+      "longitude": -99.384692
+    },
+    {
+      "number": 589,
+      "city": "Lubbock",
+      "state": "TX",
+      "latitude": 33.641593,
+      "longitude": -101.839031
+    },
+    {
+      "number": 618,
+      "city": "Sadieville",
+      "state": "KY",
+      "latitude": 38.379493,
+      "longitude": -84.572583
+    },
+    {
+      "number": 621,
+      "city": "Bevier",
+      "state": "MO",
+      "latitude": 39.762037,
+      "longitude": -92.563654
+    },
+    {
+      "number": 615,
+      "city": "Carthage",
+      "state": "TX",
+      "latitude": 32.161085,
+      "longitude": -94.319046
+    },
+    {
+      "number": 617,
+      "city": "Hungerford",
+      "state": "TX",
+      "latitude": 29.392371,
+      "longitude": -96.076852
+    },
+    {
+      "number": 628,
+      "city": "Italy",
+      "state": "TX",
+      "latitude": 32.193688,
+      "longitude": -96.898726
+    },
+    {
+      "number": 624,
+      "city": "Prichard",
+      "state": "AL",
+      "latitude": 30.742,
+      "longitude": -88.1108
+    },
+    {
+      "number": 606,
+      "city": "South Holland",
+      "state": "IL",
+      "latitude": 41.599769,
+      "longitude": -87.579831
+    },
+    {
+      "number": 604,
+      "city": "Guthrie",
+      "state": "OK",
+      "latitude": 35.879761,
+      "longitude": -97.391931
+    },
+    {
+      "number": 612,
+      "city": "Bridgeton",
+      "state": "MO",
+      "latitude": 38.793405,
+      "longitude": -90.448305
+    },
+    {
+      "number": 622,
+      "city": "Menomonie",
+      "state": "WI",
+      "latitude": 44.906993,
+      "longitude": -91.855865
+    },
+    {
+      "number": 631,
+      "city": "Valley",
+      "state": "NE",
+      "latitude": 41.312512,
+      "longitude": -96.324373
+    },
+    {
+      "number": 644,
+      "city": "Burlington",
+      "state": "CO",
+      "latitude": 39.291364,
+      "longitude": -102.277504
+    },
+    {
+      "number": 605,
+      "city": "Springfield",
+      "state": "OH",
+      "latitude": 39.893548,
+      "longitude": -83.722517
+    },
+    {
+      "number": 643,
+      "city": "Sikeston",
+      "state": "MO",
+      "latitude": 36.854011,
+      "longitude": -89.583918
+    },
+    {
+      "number": 627,
+      "city": "Davenport",
+      "state": "FL",
+      "latitude": 28.243773,
+      "longitude": -81.657694
+    },
+    {
+      "number": 623,
+      "city": "Midland",
+      "state": "TX",
+      "latitude": 31.947692,
+      "longitude": -102.14146
+    },
+    {
+      "number": 614,
+      "city": "Albuquerque",
+      "state": "NM",
+      "latitude": 35.063504,
+      "longitude": -106.786034
+    },
+    {
+      "number": 625,
+      "city": "Sidney",
+      "state": "NE",
+      "latitude": 41.109221,
+      "longitude": -102.950521
+    },
+    {
+      "number": 638,
+      "city": "Texhoma",
+      "state": "OK",
+      "latitude": 36.506305,
+      "longitude": -101.774669
+    },
+    {
+      "number": 648,
+      "city": "Valliant",
+      "state": "OK",
+      "latitude": 34.004305,
+      "longitude": -95.101356
+    },
+    {
+      "number": 611,
+      "city": "Canaan",
+      "state": "NY",
+      "latitude": 42.362667,
+      "longitude": -73.429423
+    },
+    {
+      "number": 654,
+      "city": "Union City",
+      "state": "OK",
+      "latitude": 35.405613,
+      "longitude": -97.938429
+    },
+    {
+      "number": 636,
+      "city": "Nowata",
+      "state": "OK",
+      "latitude": 36.7196,
+      "longitude": -95.6286
+    },
+    {
+      "number": 115,
+      "city": "Buena Vista",
+      "state": "CO",
+      "latitude": 38.850964,
+      "longitude": -106.139254
+    },
+    {
+      "number": 613,
+      "city": "Meadowview",
+      "state": "VA",
+      "latitude": 36.756463,
+      "longitude": -81.856803
+    },
+    {
+      "number": 633,
+      "city": "Plymouth",
+      "state": "IN",
+      "latitude": 41.362314,
+      "longitude": -86.3492
+    },
+    {
+      "number": 629,
+      "city": "White House",
+      "state": "TN",
+      "latitude": 36.467853,
+      "longitude": -86.687413
+    },
+    {
+      "number": 630,
+      "city": "Enid",
+      "state": "OK",
+      "latitude": 36.398834,
+      "longitude": -97.820024
+    },
+    {
+      "number": 651,
+      "city": "Van",
+      "state": "TX",
+      "latitude": 32.509097,
+      "longitude": -95.644745
+    },
+    {
+      "number": 656,
+      "city": "Holcomb",
+      "state": "KS",
+      "latitude": 38.000876,
+      "longitude": -100.996727
+    },
+    {
+      "number": 93,
+      "city": "Garden City",
+      "state": "KS",
+      "latitude": 37.960711,
+      "longitude": -100.833489
+    },
+    {
+      "number": 655,
+      "city": "Scott City",
+      "state": "KS",
+      "latitude": 38.464661,
+      "longitude": -100.906407
+    },
+    {
+      "number": 626,
+      "city": "Dumas",
+      "state": "TX",
+      "latitude": 35.879547,
+      "longitude": -101.973996
+    },
+    {
+      "number": 650,
+      "city": "Boardman",
+      "state": "OR",
+      "latitude": 45.825166,
+      "longitude": -119.798742
+    },
+    {
+      "number": 616,
+      "city": "Harrisonville",
+      "state": "MO",
+      "latitude": 38.636271,
+      "longitude": -94.356021
+    },
+    {
+      "number": 647,
+      "city": "Belleville",
+      "state": "KS",
+      "latitude": 39.834626,
+      "longitude": -97.636691
+    },
+    {
+      "number": 673,
+      "city": "Domino",
+      "state": "TX",
+      "latitude": 33.261778,
+      "longitude": -94.152214
+    },
+    {
+      "number": 639,
+      "city": "Lake",
+      "state": "MS",
+      "latitude": 32.322441,
+      "longitude": -89.342491
+    },
+    {
+      "number": 662,
+      "city": "Quanah",
+      "state": "TX",
+      "latitude": 34.292205,
+      "longitude": -99.757842
+    },
+    {
+      "number": 658,
+      "city": "Watts",
+      "state": "OK",
+      "latitude": 36.175419,
+      "longitude": -94.573583
+    },
+    {
+      "number": 641,
+      "city": "Dyersburg",
+      "state": "TN",
+      "latitude": 36.071077,
+      "longitude": -89.395492
+    },
+    {
+      "number": 659,
+      "city": "Tolleson",
+      "state": "AZ",
+      "latitude": 33.457995,
+      "longitude": -112.23908
+    },
+    {
+      "number": 632,
+      "city": "Liberal",
+      "state": "KS",
+      "latitude": 37.044785,
+      "longitude": -100.900791
+    },
+    {
+      "number": 595,
+      "city": "Gulfport",
+      "state": "MS",
+      "latitude": 30.419116,
+      "longitude": -89.190218
+    },
+    {
+      "number": 609,
+      "city": "Denton",
+      "state": "TX",
+      "latitude": 33.263072,
+      "longitude": -97.179456
+    },
+    {
+      "number": 657,
+      "city": "Cayce",
+      "state": "SC",
+      "latitude": 33.9537,
+      "longitude": -80.993392
+    },
+    {
+      "number": 116,
+      "city": "Meade",
+      "state": "KS",
+      "latitude": 37.285773,
+      "longitude": -100.340328
+    },
+    {
+      "number": 671,
+      "city": "Blytheville",
+      "state": "AR",
+      "latitude": 35.884827,
+      "longitude": -89.918152
+    },
+    {
+      "number": 663,
+      "city": "Port Barre",
+      "state": "LA",
+      "latitude": 30.546703,
+      "longitude": -91.963512
+    },
+    {
+      "number": 675,
+      "city": "Okmulgee",
+      "state": "OK",
+      "latitude": 35.63581,
+      "longitude": -95.96269
+    },
+    {
+      "number": 620,
+      "city": "Hawthorne",
+      "state": "FL",
+      "latitude": 29.601979,
+      "longitude": -82.08676
+    },
+    {
+      "number": 665,
+      "city": "Angleton",
+      "state": "TX",
+      "latitude": 29.197231,
+      "longitude": -95.457044
+    },
+    {
+      "number": 664,
+      "city": "Terre Haute",
+      "state": "IN",
+      "latitude": 39.347895,
+      "longitude": -87.389742
+    },
+    {
+      "number": 653,
+      "city": "Eads",
+      "state": "CO",
+      "latitude": 38.487838,
+      "longitude": -102.78516
+    },
+    {
+      "number": 692,
+      "city": "Chanute",
+      "state": "KS",
+      "latitude": 37.646185,
+      "longitude": -95.477116
+    },
+    {
+      "number": 642,
+      "city": "Hereford",
+      "state": "TX",
+      "latitude": 34.810037,
+      "longitude": -102.407661
+    },
+    {
+      "number": 670,
+      "city": "Floyd",
+      "state": "IA",
+      "latitude": 43.122762,
+      "longitude": -92.735463
+    },
+    {
+      "number": 676,
+      "city": "Syracuse",
+      "state": "NE",
+      "latitude": 40.673424,
+      "longitude": -96.178653
+    },
+    {
+      "number": 681,
+      "city": "Prosser",
+      "state": "WA",
+      "latitude": 46.219559,
+      "longitude": -119.79295
+    },
+    {
+      "number": 679,
+      "city": "Hardin",
+      "state": "MT",
+      "latitude": 45.748255,
+      "longitude": -107.611532
+    },
+    {
+      "number": 680,
+      "city": "Norfolk",
+      "state": "NE",
+      "latitude": 42.011302,
+      "longitude": -97.427622
+    },
+    {
+      "number": 669,
+      "city": "New London",
+      "state": "MO",
+      "latitude": 39.573995,
+      "longitude": -91.402271
+    },
+    {
+      "number": 637,
+      "city": "Dekorra - Poynette",
+      "state": "WI",
+      "latitude": 43.390296,
+      "longitude": -89.469399
+    },
+    {
+      "number": 117,
+      "city": "Crescent",
+      "state": "OK",
+      "latitude": 35.946348,
+      "longitude": -97.594583
+    },
+    {
+      "number": 695,
+      "city": "Cunningham",
+      "state": "KS",
+      "latitude": 37.640311,
+      "longitude": -98.428243
+    },
+    {
+      "number": 684,
+      "city": "Ellsworth",
+      "state": "IA",
+      "latitude": 42.31205,
+      "longitude": -93.572074
+    },
+    {
+      "number": 687,
+      "city": "South Jacksonville",
+      "state": "IL",
+      "latitude": 39.689652,
+      "longitude": -90.230048
+    },
+    {
+      "number": 640,
+      "city": "Sheboygan",
+      "state": "WI",
+      "latitude": 43.6769,
+      "longitude": -87.7577
+    },
+    {
+      "number": 691,
+      "city": "Ely",
+      "state": "NV",
+      "latitude": 39.242743,
+      "longitude": -114.869115
+    },
+    {
+      "number": 688,
+      "city": "Greenup",
+      "state": "IL",
+      "latitude": 39.253591,
+      "longitude": -88.152286
+    },
+    {
+      "number": 685,
+      "city": "Knoxville",
+      "state": "IL",
+      "latitude": 40.918548,
+      "longitude": -90.293241
+    },
+    {
+      "number": 678,
+      "city": "Paris",
+      "state": "TX",
+      "latitude": 33.695401,
+      "longitude": -95.555286
+    },
+    {
+      "number": 683,
+      "city": "Moore Haven",
+      "state": "FL",
+      "latitude": 26.834811,
+      "longitude": -81.13192
+    },
+    {
+      "number": 686,
+      "city": "Brigham City",
+      "state": "UT",
+      "latitude": 41.508809,
+      "longitude": -112.053738
+    },
+    {
+      "number": 677,
+      "city": "West Point",
+      "state": "MS",
+      "latitude": 33.584476,
+      "longitude": -88.658088
+    },
+    {
+      "number": 667,
+      "city": "Mebane",
+      "state": "NC",
+      "latitude": 36.067837,
+      "longitude": -79.313632
+    },
+    {
+      "number": 682,
+      "city": "Hagerstown",
+      "state": "MD",
+      "latitude": 39.7007,
+      "longitude": -77.7338
+    },
+    {
+      "number": 672,
+      "city": "Sinton",
+      "state": "TX",
+      "latitude": 28.011697,
+      "longitude": -97.532753
+    },
+    {
+      "number": 698,
+      "city": "Macon",
+      "state": "GA",
+      "latitude": 32.717528,
+      "longitude": -83.733418
+    },
+    {
+      "number": 697,
+      "city": "Newton",
+      "state": "NC",
+      "latitude": 35.635688,
+      "longitude": -81.301141
+    },
+    {
+      "number": 693,
+      "city": "Upper Sandusky",
+      "state": "OH",
+      "latitude": 40.855721,
+      "longitude": -83.300795
+    },
+    {
+      "number": 690,
+      "city": "Circleville",
+      "state": "OH",
+      "latitude": 39.556927,
+      "longitude": -82.95828
+    },
+    {
+      "number": 703,
+      "city": "South Hutchinson",
+      "state": "KS",
+      "latitude": 38.014167,
+      "longitude": -97.942004
+    },
+    {
+      "number": 699,
+      "city": "Magee",
+      "state": "MS",
+      "latitude": 31.874245,
+      "longitude": -89.755754
+    },
+    {
+      "number": 696,
+      "city": "Beaumont",
+      "state": "TX",
+      "latitude": 29.989271,
+      "longitude": -94.211571
+    },
+    {
+      "number": 705,
+      "city": "Providence Forge",
+      "state": "VA",
+      "latitude": 37.501466,
+      "longitude": -77.090663
+    },
+    {
+      "number": 713,
+      "city": "Bridgeport",
+      "state": "TX",
+      "latitude": 33.221219,
+      "longitude": -97.737881
+    },
+    {
+      "number": 661,
+      "city": "Pine Bluff",
+      "state": "AR",
+      "latitude": 34.193597,
+      "longitude": -91.920618
+    },
+    {
+      "number": 712,
+      "city": "Newcastle",
+      "state": "OK",
+      "latitude": 35.277217,
+      "longitude": -97.601218
+    },
+    {
+      "number": 711,
+      "city": "Bellville",
+      "state": "OH",
+      "latitude": 40.652891,
+      "longitude": -82.546018
+    },
+    {
+      "number": 704,
+      "city": "Pacific Junction",
+      "state": "IA",
+      "latitude": 41.046186,
+      "longitude": -95.827015
+    },
+    {
+      "number": 649,
+      "city": "Brush",
+      "state": "CO",
+      "latitude": 40.2661,
+      "longitude": -103.6394
+    },
+    {
+      "number": 694,
+      "city": "Ramer",
+      "state": "TN",
+      "latitude": 35.076679,
+      "longitude": -88.545104
+    },
+    {
+      "number": 717,
+      "city": "Disputanta",
+      "state": "VA",
+      "latitude": 37.156571,
+      "longitude": -77.273581
+    },
+    {
+      "number": 720,
+      "city": "Boyce",
+      "state": "LA",
+      "latitude": 31.360802,
+      "longitude": -92.588578
+    },
+    {
+      "number": 708,
+      "city": "Bushnell",
+      "state": "FL",
+      "latitude": 28.66815,
+      "longitude": -82.147216
+    },
+    {
+      "number": 718,
+      "city": "Hope Hull",
+      "state": "AL",
+      "latitude": 32.19624,
+      "longitude": -86.415235
+    },
+    {
+      "number": 635,
+      "city": "Alma",
+      "state": "AR",
+      "latitude": 35.540553,
+      "longitude": -94.235469
+    },
+    {
+      "number": 719,
+      "city": "Troy",
+      "state": "TX",
+      "latitude": 31.191227,
+      "longitude": -97.312105
+    },
+    {
+      "number": 702,
+      "city": "Waterloo",
+      "state": "IA",
+      "latitude": 42.461731,
+      "longitude": -92.404041
+    },
+    {
+      "number": 668,
+      "city": "Berthoud",
+      "state": "CO",
+      "latitude": 40.305165,
+      "longitude": -104.984229
+    },
+    {
+      "number": 716,
+      "city": "Elizabethtown",
+      "state": "KY",
+      "latitude": 37.6547,
+      "longitude": -85.8869
+    },
+    {
+      "number": 721,
+      "city": "Alma",
+      "state": "TX",
+      "latitude": 32.287637,
+      "longitude": -96.543987
+    },
+    {
+      "number": 723,
+      "city": "Laramie",
+      "state": "WY",
+      "latitude": 41.329021,
+      "longitude": -105.610322
+    },
+    {
+      "number": 706,
+      "city": "Staunton",
+      "state": "VA",
+      "latitude": 38.022101,
+      "longitude": -79.142299
+    },
+    {
+      "number": 497,
+      "city": "Statesville",
+      "state": "NC",
+      "latitude": 35.812442,
+      "longitude": -80.8334
+    },
+    {
+      "number": 715,
+      "city": "Bastian",
+      "state": "VA",
+      "latitude": 37.177665,
+      "longitude": -81.140518
+    },
+    {
+      "number": 701,
+      "city": "Capac",
+      "state": "MI",
+      "latitude": 42.989255,
+      "longitude": -82.928883
+    },
+    {
+      "number": 645,
+      "city": "Frenchtown",
+      "state": "MI",
+      "latitude": 41.964765,
+      "longitude": -83.345143
+    },
+    {
+      "number": 714,
+      "city": "Charlotte",
+      "state": "NC",
+      "latitude": 35.255425,
+      "longitude": -80.980732
+    },
+    {
+      "number": 901,
+      "city": "Amarillo",
+      "state": "TX",
+      "latitude": 35.191698,
+      "longitude": -101.721509
+    },
+    {
+      "number": 902,
+      "city": "Aurora",
+      "state": "OR",
+      "latitude": 45.23277,
+      "longitude": -122.811602
+    },
+    {
+      "number": 907,
+      "city": "Casa Grande",
+      "state": "AZ",
+      "latitude": 32.805104,
+      "longitude": -111.67204
+    },
+    {
+      "number": 910,
+      "city": "Corning",
+      "state": "CA",
+      "latitude": 39.903238,
+      "longitude": -122.19678
+    },
+    {
+      "number": 917,
+      "city": "Fernley",
+      "state": "NV",
+      "latitude": 39.615094,
+      "longitude": -119.26893
+    },
+    {
+      "number": 931,
+      "city": "Kingman",
+      "state": "AZ",
+      "latitude": 35.179338,
+      "longitude": -113.793341
+    },
+    {
+      "number": 936,
+      "city": "North Las Vegas",
+      "state": "NV",
+      "latitude": 36.213022,
+      "longitude": -115.129795
+    },
+    {
+      "number": 944,
+      "city": "Ripon",
+      "state": "CA",
+      "latitude": 37.755437,
+      "longitude": -121.139607
+    },
+    {
+      "number": 948,
+      "city": "Spokane",
+      "state": "WA",
+      "latitude": 47.58766,
+      "longitude": -117.567669
+    },
+    {
+      "number": 904,
+      "city": "Baytown",
+      "state": "TX",
+      "latitude": 29.798317,
+      "longitude": -95.027443
+    },
+    {
+      "number": 913,
+      "city": "Dallas",
+      "state": "TX",
+      "latitude": 32.655868,
+      "longitude": -96.754979
+    },
+    {
+      "number": 916,
+      "city": "El Paso",
+      "state": "TX",
+      "latitude": 31.662768,
+      "longitude": -106.236975
+    },
+    {
+      "number": 927,
+      "city": "Irving",
+      "state": "TX",
+      "latitude": 32.833555,
+      "longitude": -96.914321
+    },
+    {
+      "number": 935,
+      "city": "Laredo",
+      "state": "TX",
+      "latitude": 27.60831,
+      "longitude": -99.520961
+    },
+    {
+      "number": 938,
+      "city": "Milan",
+      "state": "NM",
+      "latitude": 35.178761,
+      "longitude": -107.90524
+    },
+    {
+      "number": 941,
+      "city": "Oklahoma City",
+      "state": "OK",
+      "latitude": 35.458566,
+      "longitude": -97.694979
+    },
+    {
+      "number": 946,
+      "city": "San Antonio",
+      "state": "TX",
+      "latitude": 29.448396,
+      "longitude": -98.361512
+    },
+    {
+      "number": 908,
+      "city": "Commerce City",
+      "state": "CO",
+      "latitude": 39.795121,
+      "longitude": -104.933597
+    },
+    {
+      "number": 912,
+      "city": "Council Bluffs",
+      "state": "IA",
+      "latitude": 41.237658,
+      "longitude": -95.878441
+    },
+    {
+      "number": 915,
+      "city": "Effingham",
+      "state": "IL",
+      "latitude": 39.135518,
+      "longitude": -88.568675
+    },
+    {
+      "number": 929,
+      "city": "Joplin",
+      "state": "MO",
+      "latitude": 37.05763,
+      "longitude": -94.431249
+    },
+    {
+      "number": 940,
+      "city": "Oak Grove",
+      "state": "MO",
+      "latitude": 39.012355,
+      "longitude": -94.126143
+    },
+    {
+      "number": 943,
+      "city": "Pontoon Beach",
+      "state": "IL",
+      "latitude": 38.76331,
+      "longitude": -90.068052
+    },
+    {
+      "number": 949,
+      "city": "Troy",
+      "state": "IL",
+      "latitude": 38.738859,
+      "longitude": -89.909633
+    },
+    {
+      "number": 950,
+      "city": "Walcott",
+      "state": "IA",
+      "latitude": 41.618438,
+      "longitude": -90.787033
+    },
+    {
+      "number": 903,
+      "city": "Austinburg",
+      "state": "OH",
+      "latitude": 41.787213,
+      "longitude": -80.851761
+    },
+    {
+      "number": 905,
+      "city": "Beaverdam",
+      "state": "OH",
+      "latitude": 40.836052,
+      "longitude": -83.963903
+    },
+    {
+      "number": 919,
+      "city": "Franklin",
+      "state": "KY",
+      "latitude": 36.716525,
+      "longitude": -86.526949
+    },
+    {
+      "number": 920,
+      "city": "Gary",
+      "state": "IN",
+      "latitude": 41.571274,
+      "longitude": -87.401693
+    },
+    {
+      "number": 921,
+      "city": "Girard",
+      "state": "OH",
+      "latitude": 41.137665,
+      "longitude": -80.719969
+    },
+    {
+      "number": 926,
+      "city": "Indianapolis",
+      "state": "IN",
+      "latitude": 39.690198,
+      "longitude": -86.18576
+    },
+    {
+      "number": 942,
+      "city": "Perrysburg",
+      "state": "OH",
+      "latitude": 41.533812,
+      "longitude": -83.46858
+    },
+    {
+      "number": 947,
+      "city": "Seville",
+      "state": "OH",
+      "latitude": 41.036204,
+      "longitude": -81.90678
+    },
+    {
+      "number": 952,
+      "city": "Whiteland",
+      "state": "IN",
+      "latitude": 39.547412,
+      "longitude": -86.036087
+    },
+    {
+      "number": 914,
+      "city": "Duncan",
+      "state": "SC",
+      "latitude": 34.915001,
+      "longitude": -82.112195
+    },
+    {
+      "number": 924,
+      "city": "Harrisburg",
+      "state": "PA",
+      "latitude": 40.353508,
+      "longitude": -76.729336
+    },
+    {
+      "number": 925,
+      "city": "Haw River",
+      "state": "NC",
+      "latitude": 36.072323,
+      "longitude": -79.350999
+    },
+    {
+      "number": 930,
+      "city": "Kenly",
+      "state": "NC",
+      "latitude": 35.582144,
+      "longitude": -78.148951
+    },
+    {
+      "number": 932,
+      "city": "Knoxville",
+      "state": "TN",
+      "latitude": 35.882294,
+      "longitude": -84.238172
+    },
+    {
+      "number": 937,
+      "city": "Max Meadows",
+      "state": "VA",
+      "latitude": 36.947293,
+      "longitude": -80.942391
+    },
+    {
+      "number": 939,
+      "city": "N Little Rock",
+      "state": "AR",
+      "latitude": 34.778687,
+      "longitude": -92.127944
+    },
+    {
+      "number": 945,
+      "city": "Ruther Glen",
+      "state": "VA",
+      "latitude": 37.941149,
+      "longitude": -77.463648
+    },
+    {
+      "number": 951,
+      "city": "West Memphis",
+      "state": "AR",
+      "latitude": 35.153991,
+      "longitude": -90.129421
+    },
+    {
+      "number": 906,
+      "city": "Brunswick",
+      "state": "GA",
+      "latitude": 31.138121,
+      "longitude": -81.572924
+    },
+    {
+      "number": 909,
+      "city": "Conley",
+      "state": "GA",
+      "latitude": 33.66019,
+      "longitude": -84.340667
+    },
+    {
+      "number": 911,
+      "city": "Cottondale",
+      "state": "AL",
+      "latitude": 33.179931,
+      "longitude": -87.448274
+    },
+    {
+      "number": 918,
+      "city": "Flowood",
+      "state": "MS",
+      "latitude": 32.27885,
+      "longitude": -90.15298
+    },
+    {
+      "number": 922,
+      "city": "Greenwood",
+      "state": "LA",
+      "latitude": 32.447193,
+      "longitude": -93.984882
+    },
+    {
+      "number": 923,
+      "city": "Hammond",
+      "state": "LA",
+      "latitude": 30.476351,
+      "longitude": -90.45648
+    },
+    {
+      "number": 928,
+      "city": "Jackson",
+      "state": "GA",
+      "latitude": 33.206151,
+      "longitude": -84.063875
+    },
+    {
+      "number": 933,
+      "city": "Lake Park",
+      "state": "GA",
+      "latitude": 30.645984,
+      "longitude": -83.185148
+    },
+    {
+      "number": 118,
+      "city": "Wynnewood",
+      "state": "OK",
+      "latitude": 34.641709,
+      "longitude": -97.173317
+    },
+    {
+      "number": 734,
+      "city": "Randlett",
+      "state": "OK",
+      "latitude": 34.173102,
+      "longitude": -98.498339
+    },
+    {
+      "number": 726,
+      "city": "Belen",
+      "state": "NM",
+      "latitude": 34.652601,
+      "longitude": -106.793411
+    },
+    {
+      "number": 709,
+      "city": "Lufkin",
+      "state": "TX",
+      "latitude": 31.411151,
+      "longitude": -94.718641
+    },
+    {
+      "number": 724,
+      "city": "Lake City",
+      "state": "FL",
+      "latitude": 30.002627,
+      "longitude": -82.598483
+    },
+    {
+      "number": 725,
+      "city": "Hanson",
+      "state": "KY",
+      "latitude": 37.416476,
+      "longitude": -87.47456
+    },
+    {
+      "number": 733,
+      "city": "Las Vegas",
+      "state": "NM",
+      "latitude": 35.619888,
+      "longitude": -105.207946
+    },
+    {
+      "number": 710,
+      "city": "Tipton",
+      "state": "IN",
+      "latitude": 40.276444,
+      "longitude": -86.130021
+    },
+    {
+      "number": 728,
+      "city": "Albany",
+      "state": "OR",
+      "latitude": 44.698743,
+      "longitude": -123.055073
+    },
+    {
+      "number": 652,
+      "city": "Williams",
+      "state": "CA",
+      "latitude": 39.167256,
+      "longitude": -122.14382
+    },
+    {
+      "number": 739,
+      "city": "Donna",
+      "state": "TX",
+      "latitude": 26.182717,
+      "longitude": -98.06724
+    },
+    {
+      "number": 740,
+      "city": "Yemassee",
+      "state": "SC",
+      "latitude": 32.705457,
+      "longitude": -80.874488
+    },
+    {
+      "number": 700,
+      "city": "Sonora",
+      "state": "TX",
+      "latitude": 30.571142,
+      "longitude": -100.585636
+    },
+    {
+      "number": 737,
+      "city": "El Reno",
+      "state": "OK",
+      "latitude": 35.496922,
+      "longitude": -97.902765
+    },
+    {
+      "number": 738,
+      "city": "Sulphur Springs",
+      "state": "TX",
+      "latitude": 33.117433,
+      "longitude": -95.636795
+    },
+    {
+      "number": 741,
+      "city": "Reidsville",
+      "state": "NC",
+      "latitude": 36.32668,
+      "longitude": -79.640427
+    },
+    {
+      "number": 747,
+      "city": "Sidney",
+      "state": "OH",
+      "latitude": 40.265328,
+      "longitude": -84.186013
+    },
+    {
+      "number": 729,
+      "city": "Goshen",
+      "state": "IN",
+      "latitude": 41.665878,
+      "longitude": -85.888229
+    },
+    {
+      "number": 732,
+      "city": "Abilene",
+      "state": "KS",
+      "latitude": 38.933422,
+      "longitude": -97.258115
+    },
+    {
+      "number": 707,
+      "city": "Covington",
+      "state": "VA",
+      "latitude": 37.79431,
+      "longitude": -79.884011
+    },
+    {
+      "number": 750,
+      "city": "Oakwood",
+      "state": "IL",
+      "latitude": 40.130598,
+      "longitude": -87.777316
+    },
+    {
+      "number": 742,
+      "city": "Holland",
+      "state": "MI",
+      "latitude": 42.782791,
+      "longitude": -86.023202
+    },
+    {
+      "number": 953,
+      "city": "Pendleton",
+      "state": "KY",
+      "latitude": 38.459728,
+      "longitude": -85.298717
+    },
+    {
+      "number": 753,
+      "city": "Missoula",
+      "state": "MT",
+      "latitude": 46.947602,
+      "longitude": -114.133598
+    },
+    {
+      "number": 745,
+      "city": "St. Clair",
+      "state": "MI",
+      "latitude": 42.865257,
+      "longitude": -82.558108
+    },
+    {
+      "number": 748,
+      "city": "Edon",
+      "state": "OH",
+      "latitude": 41.627561,
+      "longitude": -84.767331
+    },
+    {
+      "number": 754,
+      "city": "Rochelle",
+      "state": "IL",
+      "latitude": 41.898041,
+      "longitude": -89.066732
+    },
+    {
+      "number": 763,
+      "city": "Hampshire",
+      "state": "IL",
+      "latitude": 42.149101,
+      "longitude": -88.514535
+    },
+    {
+      "number": 765,
+      "city": "Commerce",
+      "state": "GA",
+      "latitude": 34.227399,
+      "longitude": -83.499387
+    },
+    {
+      "number": 746,
+      "city": "Decatur",
+      "state": "IL",
+      "latitude": 39.892562,
+      "longitude": -89.002884
+    },
+    {
+      "number": 743,
+      "city": "Bridgeport",
+      "state": "MI",
+      "latitude": 43.348709,
+      "longitude": -83.861776
+    },
+    {
+      "number": 731,
+      "city": "Slippery Rock",
+      "state": "PA",
+      "latitude": 41.036927,
+      "longitude": -80.127481
+    },
+    {
+      "number": 735,
+      "city": "Calhoun",
+      "state": "GA",
+      "latitude": 34.443856,
+      "longitude": -84.915181
+    },
+    {
+      "number": 749,
+      "city": "Westmorland",
+      "state": "CA",
+      "latitude": 33.037837,
+      "longitude": -115.629103
+    },
+    {
+      "number": 766,
+      "city": "Atkinson",
+      "state": "IL",
+      "latitude": 41.410645,
+      "longitude": -90.016349
+    },
+    {
+      "number": 727,
+      "city": "Big Cabin",
+      "state": "OK",
+      "latitude": 36.568104,
+      "longitude": -95.218264
+    },
+    {
+      "number": 760,
+      "city": "Eunice",
+      "state": "NM",
+      "latitude": 32.434398,
+      "longitude": -103.121134
+    },
+    {
+      "number": 764,
+      "city": "Hillsboro",
+      "state": "TN",
+      "latitude": 35.419681,
+      "longitude": -86.014618
+    },
+    {
+      "number": 767,
+      "city": "Brownsville",
+      "state": "TX",
+      "latitude": 25.954858,
+      "longitude": -97.418534
+    },
+    {
+      "number": 759,
+      "city": "Hazen",
+      "state": "AR",
+      "latitude": 34.815314,
+      "longitude": -91.567393
+    },
+    {
+      "number": 752,
+      "city": "Elkhorn",
+      "state": "WI",
+      "latitude": 42.652564,
+      "longitude": -88.542025
+    },
+    {
+      "number": 674,
+      "city": "Lake Wales",
+      "state": "FL",
+      "latitude": 27.872889,
+      "longitude": -81.593219
+    },
+    {
+      "number": 736,
+      "city": "Madera",
+      "state": "CA",
+      "latitude": 36.995626,
+      "longitude": -120.096252
+    },
+    {
+      "number": 769,
+      "city": "Topeka",
+      "state": "KS",
+      "latitude": 39.082097,
+      "longitude": -95.725992
+    },
+    {
+      "number": 773,
+      "city": "Eutaw",
+      "state": "AL",
+      "latitude": 32.8667,
+      "longitude": -87.922208
+    },
+    {
+      "number": 783,
+      "city": "Willow Springs",
+      "state": "MO",
+      "latitude": 36.975173,
+      "longitude": -91.940557
+    },
+    {
+      "number": 792,
+      "city": "Green River",
+      "state": "UT",
+      "latitude": 38.995129,
+      "longitude": -110.185162
+    },
+    {
+      "number": 119,
+      "city": "Green River",
+      "state": "UT",
+      "latitude": 38.99462,
+      "longitude": -110.183997
+    },
+    {
+      "number": 689,
+      "city": "Lake Village",
+      "state": "AR",
+      "latitude": 33.329947,
+      "longitude": -91.293189
+    },
+    {
+      "number": 751,
+      "city": "Elgin",
+      "state": "SC",
+      "latitude": 34.139461,
+      "longitude": -80.748271
+    },
+    {
+      "number": 774,
+      "city": "Smiths Station",
+      "state": "AL",
+      "latitude": 32.536993,
+      "longitude": -85.082484
+    },
+    {
+      "number": 744,
+      "city": "Obetz",
+      "state": "OH",
+      "latitude": 39.84506,
+      "longitude": -82.937652
+    },
+    {
+      "number": 784,
+      "city": "Schuyler",
+      "state": "NE",
+      "latitude": 41.451618,
+      "longitude": -97.084221
+    },
+    {
+      "number": 757,
+      "city": "Milan",
+      "state": "MI",
+      "latitude": 42.076541,
+      "longitude": -83.667902
+    },
+    {
+      "number": 758,
+      "city": "Sauget",
+      "state": "IL",
+      "latitude": 38.561695,
+      "longitude": -90.132209
+    },
+    {
+      "number": 785,
+      "city": "Grand Ledge",
+      "state": "MI",
+      "latitude": 42.78529,
+      "longitude": -84.668084
+    },
+    {
+      "number": 770,
+      "city": "Wadsworth",
+      "state": "IL",
+      "latitude": 42.489035,
+      "longitude": -87.953391
+    },
+    {
+      "number": 776,
+      "city": "Vicksburg",
+      "state": "MS",
+      "latitude": 32.362558,
+      "longitude": -90.667057
+    },
+    {
+      "number": 779,
+      "city": "Malvern",
+      "state": "AR",
+      "latitude": 34.387581,
+      "longitude": -92.846531
+    },
+    {
+      "number": 790,
+      "city": "Summerton",
+      "state": "SC",
+      "latitude": 33.591813,
+      "longitude": -80.355763
+    },
+    {
+      "number": 762,
+      "city": "Laredo",
+      "state": "TX",
+      "latitude": 27.644615,
+      "longitude": -99.555428
+    },
+    {
+      "number": 795,
+      "city": "Madras",
+      "state": "OR",
+      "latitude": 44.61226,
+      "longitude": -121.137633
+    },
+    {
+      "number": 788,
+      "city": "New Florence",
+      "state": "MO",
+      "latitude": 38.898122,
+      "longitude": -91.453613
+    },
+    {
+      "number": 791,
+      "city": "Holladay",
+      "state": "TN",
+      "latitude": 35.840559,
+      "longitude": -88.081783
+    },
+    {
+      "number": 778,
+      "city": "Ellabell",
+      "state": "GA",
+      "latitude": 32.183641,
+      "longitude": -81.458046
+    },
+    {
+      "number": 794,
+      "city": "Watonga",
+      "state": "OK",
+      "latitude": 35.840683,
+      "longitude": -98.394747
+    },
+    {
+      "number": 797,
+      "city": "Winnemucca",
+      "state": "NV",
+      "latitude": 40.950788,
+      "longitude": -117.757554
+    },
+    {
+      "number": 782,
+      "city": "Oak Grove",
+      "state": "KY",
+      "latitude": 36.709575,
+      "longitude": -87.454901
+    },
+    {
+      "number": 799,
+      "city": "Walnut",
+      "state": "MS",
+      "latitude": 34.951961,
+      "longitude": -88.910287
+    },
+    {
+      "number": 793,
+      "city": "Mt Juliet",
+      "state": "TN",
+      "latitude": 36.067289,
+      "longitude": -86.428406
+    },
+    {
+      "number": 781,
+      "city": "Madison",
+      "state": "GA",
+      "latitude": 33.562861,
+      "longitude": -83.497019
+    },
+    {
+      "number": 755,
+      "city": "Boron",
+      "state": "CA",
+      "latitude": 35.011891,
+      "longitude": -117.644461
+    },
+    {
+      "number": 853,
+      "city": "Kermit",
+      "state": "TX",
+      "latitude": 31.8525,
+      "longitude": -103.069832
+    },
+    {
+      "number": 722,
+      "city": "Mayer",
+      "state": "AZ",
+      "latitude": 34.334818,
+      "longitude": -112.117712
+    },
+    {
+      "number": 801,
+      "city": "Cordele",
+      "state": "GA",
+      "latitude": 31.975579,
+      "longitude": -83.758552
+    },
+    {
+      "number": 775,
+      "city": "Rockford",
+      "state": "IL",
+      "latitude": 42.21505,
+      "longitude": -89.107076
+    },
+    {
+      "number": 798,
+      "city": "Tuscola",
+      "state": "IL",
+      "latitude": 39.793161,
+      "longitude": -88.266061
+    },
+    {
+      "number": 804,
+      "city": "Monmouth",
+      "state": "IL",
+      "latitude": 40.898854,
+      "longitude": -90.660327
+    },
+    {
+      "number": 120,
+      "city": "Vian",
+      "state": "OK",
+      "latitude": 35.490723,
+      "longitude": -94.971169
+    },
+    {
+      "number": 761,
+      "city": "Jacksonville",
+      "state": "FL",
+      "latitude": 30.291386,
+      "longitude": -81.985123
+    },
+    {
+      "number": 803,
+      "city": "Marion",
+      "state": "IL",
+      "latitude": 37.745682,
+      "longitude": -88.949251
+    },
+    {
+      "number": 768,
+      "city": "Channahon",
+      "state": "IL",
+      "latitude": 41.434064,
+      "longitude": -88.189665
+    },
+    {
+      "number": 660,
+      "city": "Walsenburg",
+      "state": "CO",
+      "latitude": 37.616621,
+      "longitude": -104.75598
+    },
+    {
+      "number": 814,
+      "city": "Hamilton",
+      "state": "AL",
+      "latitude": 34.092609,
+      "longitude": -88.004672
+    },
+    {
+      "number": 812,
+      "city": "Bliss",
+      "state": "ID",
+      "latitude": 42.924687,
+      "longitude": -114.940688
+    },
+    {
+      "number": 879,
+      "city": "Huntington",
+      "state": "IN",
+      "latitude": 40.887716,
+      "longitude": -85.52357
+    },
+    {
+      "number": 772,
+      "city": "Bath",
+      "state": "NY",
+      "latitude": 42.376673,
+      "longitude": -77.362132
+    },
+    {
+      "number": 844,
+      "city": "St. Charles",
+      "state": "MN",
+      "latitude": 43.954459,
+      "longitude": -92.064198
+    },
+    {
+      "number": 878,
+      "city": "Alamo",
+      "state": "MI",
+      "latitude": 42.374803,
+      "longitude": -85.659821
+    },
+    {
+      "number": 888,
+      "city": "Green River",
+      "state": "WY",
+      "latitude": 41.560036,
+      "longitude": -109.539654
+    },
+    {
+      "number": 789,
+      "city": "Great Falls",
+      "state": "MT",
+      "latitude": 47.475031,
+      "longitude": -111.361108
+    },
+    {
+      "number": 730,
+      "city": "Omaha",
+      "state": "NE",
+      "latitude": 41.157471,
+      "longitude": -96.13697
+    },
+    {
+      "number": 892,
+      "city": "Etna",
+      "state": "OH",
+      "latitude": 39.944873,
+      "longitude": -82.679506
+    },
+    {
+      "number": 841,
+      "city": "Napoleon",
+      "state": "OH",
+      "latitude": 41.416321,
+      "longitude": -84.106962
+    },
+    {
+      "number": 849,
+      "city": "Valley City",
+      "state": "ND",
+      "latitude": 46.910457,
+      "longitude": -98.00599
+    },
+    {
+      "number": 880,
+      "city": "Olney",
+      "state": "IL",
+      "latitude": 38.711902,
+      "longitude": -88.091835
+    },
+    {
+      "number": 787,
+      "city": "Mosheim",
+      "state": "TN",
+      "latitude": 36.2765,
+      "longitude": -82.925643
+    },
+    {
+      "number": 786,
+      "city": "Kansas City",
+      "state": "MO",
+      "latitude": 39.153514,
+      "longitude": -94.475964
+    },
+    {
+      "number": 868,
+      "city": "Mims",
+      "state": "FL",
+      "latitude": 28.666889,
+      "longitude": -80.873248
+    },
+    {
+      "number": 881,
+      "city": "Diamond",
+      "state": "OH",
+      "latitude": 41.107922,
+      "longitude": -81.050233
+    },
+    {
+      "number": 806,
+      "city": "Monroe",
+      "state": "LA",
+      "latitude": 32.493193,
+      "longitude": -91.991387
+    },
+    {
+      "number": 846,
+      "city": "Irvington",
+      "state": "AL",
+      "latitude": 30.531819,
+      "longitude": -88.23788
+    },
+    {
+      "number": 848,
+      "city": "Sandersville",
+      "state": "MS",
+      "latitude": 31.783351,
+      "longitude": -89.057151
+    },
+    {
+      "number": 893,
+      "city": "Garden City",
+      "state": "GA",
+      "latitude": 32.103201,
+      "longitude": -81.194401
+    },
+    {
+      "number": 808,
+      "city": "Albany",
+      "state": "GA",
+      "latitude": 31.581169,
+      "longitude": -84.106279
+    },
+    {
+      "number": 889,
+      "city": "Holly Springs",
+      "state": "MS",
+      "latitude": 34.744895,
+      "longitude": -89.454239
+    },
+    {
+      "number": 800,
+      "city": "Elk Grove Village",
+      "state": "IL",
+      "latitude": 41.99875,
+      "longitude": -87.96085
+    },
+    {
+      "number": 802,
+      "city": "Milton",
+      "state": "FL",
+      "latitude": 30.574249,
+      "longitude": -87.030483
+    },
+    {
+      "number": 815,
+      "city": "Winona",
+      "state": "TX",
+      "latitude": 32.443228,
+      "longitude": -95.061947
+    },
+    {
+      "number": 843,
+      "city": "Drayton",
+      "state": "ND",
+      "latitude": 48.570063,
+      "longitude": -97.1893
+    },
+    {
+      "number": 821,
+      "city": "Durant",
+      "state": "OK",
+      "latitude": 33.998251,
+      "longitude": -96.428994
+    },
+    {
+      "number": 834,
+      "city": "Grant Park",
+      "state": "IL",
+      "latitude": 41.241902,
+      "longitude": -87.628942
+    },
+    {
+      "number": 810,
+      "city": "Bellefontaine",
+      "state": "OH",
+      "latitude": 40.371804,
+      "longitude": -83.725684
+    },
+    {
+      "number": 836,
+      "city": "Dalhart",
+      "state": "TX",
+      "latitude": 36.076713,
+      "longitude": -102.536748
+    },
+    {
+      "number": 820,
+      "city": "Waterloo",
+      "state": "NY",
+      "latitude": 42.964412,
+      "longitude": -76.847761
+    },
+    {
+      "number": 817,
+      "city": "Santa Teresa",
+      "state": "NM",
+      "latitude": 31.862229,
+      "longitude": -106.687231
+    },
+    {
+      "number": 818,
+      "city": "Heflin",
+      "state": "AL",
+      "latitude": 33.647017,
+      "longitude": -85.506004
+    },
+    {
+      "number": 816,
+      "city": "Kimball",
+      "state": "SD",
+      "latitude": 43.736356,
+      "longitude": -98.957259
+    },
+    {
+      "number": 835,
+      "city": "Fillmore",
+      "state": "UT",
+      "latitude": 38.948548,
+      "longitude": -112.352721
+    },
+    {
+      "number": 847,
+      "city": "Pageland",
+      "state": "SC",
+      "latitude": 34.798621,
+      "longitude": -80.406067
+    },
+    {
+      "number": 839,
+      "city": "Leavenworth",
+      "state": "IN",
+      "latitude": 38.244564,
+      "longitude": -86.357526
+    },
+    {
+      "number": 811,
+      "city": "Pasco",
+      "state": "WA",
+      "latitude": 46.264151,
+      "longitude": -119.082472
+    },
+    {
+      "number": 833,
+      "city": "Ripley",
+      "state": "NY",
+      "latitude": 42.258833,
+      "longitude": -79.743629
+    },
+    {
+      "number": 796,
+      "city": "Newport",
+      "state": "TN",
+      "latitude": 35.970619,
+      "longitude": -83.247821
+    },
+    {
+      "number": 823,
+      "city": "Klamath Falls",
+      "state": "OR",
+      "latitude": 42.258046,
+      "longitude": -121.799445
+    },
+    {
+      "number": 829,
+      "city": "Brookville",
+      "state": "PA",
+      "latitude": 41.171527,
+      "longitude": -79.046351
+    },
+    {
+      "number": 809,
+      "city": "Bates City",
+      "state": "MO",
+      "latitude": 39.012924,
+      "longitude": -94.067843
+    },
+    {
+      "number": 824,
+      "city": "Mt Vernon",
+      "state": "IL",
+      "latitude": 38.27793,
+      "longitude": -88.903162
+    },
+    {
+      "number": 851,
+      "city": "Monroe Center",
+      "state": "IL",
+      "latitude": 42.099645,
+      "longitude": -89.018089
+    },
+    {
+      "number": 813,
+      "city": "North Canton",
+      "state": "OH",
+      "latitude": 40.898929,
+      "longitude": -81.437124
+    },
+    {
+      "number": 827,
+      "city": "Moses Lake",
+      "state": "WA",
+      "latitude": 47.102584,
+      "longitude": -119.341493
+    },
+    {
+      "number": 822,
+      "city": "Clarksville",
+      "state": "AR",
+      "latitude": 35.460073,
+      "longitude": -93.480111
+    },
+    {
+      "number": 842,
+      "city": "Rockville",
+      "state": "MN",
+      "latitude": 45.512369,
+      "longitude": -94.285667
+    },
+    {
+      "number": 819,
+      "city": "Rincon",
+      "state": "GA",
+      "latitude": 32.336101,
+      "longitude": -81.259142
+    },
+    {
+      "number": 832,
+      "city": "Columbus ",
+      "state": "MN",
+      "latitude": 45.248883,
+      "longitude": -93.022763
+    },
+    {
+      "number": 828,
+      "city": "Jacksonville",
+      "state": "FL",
+      "latitude": 30.463245,
+      "longitude": -81.673875
+    },
+    {
+      "number": 837,
+      "city": "Cameron",
+      "state": "MO",
+      "latitude": 39.732108,
+      "longitude": -94.218446
+    },
+    {
+      "number": 646,
+      "city": "Willington",
+      "state": "CT",
+      "latitude": 41.925687,
+      "longitude": -72.25951
+    },
+    {
+      "number": 807,
+      "city": "Patterson",
+      "state": "CA",
+      "latitude": 37.462921,
+      "longitude": -121.175756
+    },
+    {
+      "number": 857,
+      "city": "Tonopah",
+      "state": "NV",
+      "latitude": 38.079307,
+      "longitude": -117.253181
+    },
+    {
+      "number": 869,
+      "city": "Le Mars",
+      "state": "IA",
+      "latitude": 42.766218,
+      "longitude": -96.212397
+    },
+    {
+      "number": 830,
+      "city": "Bakersfield",
+      "state": "CA",
+      "latitude": 35.267733,
+      "longitude": -119.019841
+    },
+    {
+      "number": 865,
+      "city": "Perry",
+      "state": "OK",
+      "latitude": 36.290484,
+      "longitude": -97.325421
+    },
+    {
+      "number": 882,
+      "city": "Muscatine",
+      "state": "IA",
+      "latitude": 41.393577,
+      "longitude": -91.087977
+    },
+    {
+      "number": 863,
+      "city": "Madison",
+      "state": "OH",
+      "latitude": 41.756796,
+      "longitude": -81.046069
+    },
+    {
+      "number": 872,
+      "city": "Lancaster",
+      "state": "OH",
+      "latitude": 39.716026,
+      "longitude": -82.670894
+    },
+    {
+      "number": 859,
+      "city": "Morris",
+      "state": "IL",
+      "latitude": 41.415297,
+      "longitude": -88.365596
+    },
+    {
+      "number": 861,
+      "city": "Loudon",
+      "state": "TN",
+      "latitude": 35.732785,
+      "longitude": -84.400061
+    },
+    {
+      "number": 826,
+      "city": "Parachute",
+      "state": "CO",
+      "latitude": 39.455511,
+      "longitude": -108.043937
+    },
+    {
+      "number": 864,
+      "city": "Lucedale",
+      "state": "MS",
+      "latitude": 30.923614,
+      "longitude": -88.514251
+    },
+    {
+      "number": 852,
+      "city": "New Boston",
+      "state": "TX",
+      "latitude": 33.472121,
+      "longitude": -94.461214
+    },
+    {
+      "number": 867,
+      "city": "Normal",
+      "state": "IL",
+      "latitude": 40.541664,
+      "longitude": -88.998009
+    },
+    {
+      "number": 874,
+      "city": "Lafayette",
+      "state": "IN",
+      "latitude": 40.452717,
+      "longitude": -86.850201
+    },
+    {
+      "number": 858,
+      "city": "Mansfield",
+      "state": "LA",
+      "latitude": 32.063591,
+      "longitude": -93.567675
+    },
+    {
+      "number": 885,
+      "city": "Harlingen",
+      "state": "TX",
+      "latitude": 26.249206,
+      "longitude": -97.726688
+    },
+    {
+      "number": 871,
+      "city": "Piedmont",
+      "state": "SC",
+      "latitude": 34.674988,
+      "longitude": -82.539511
+    },
+    {
+      "number": 862,
+      "city": "Cotulla",
+      "state": "TX",
+      "latitude": 28.416391,
+      "longitude": -99.250318
+    },
+    {
+      "number": 898,
+      "city": "Salinas",
+      "state": "CA",
+      "latitude": 36.659302,
+      "longitude": -121.618714
+    },
+    {
+      "number": 831,
+      "city": "Willcox",
+      "state": "AZ",
+      "latitude": 32.266928,
+      "longitude": -109.847324
+    },
+    {
+      "number": 891,
+      "city": "Jackpot",
+      "state": "NV",
+      "latitude": 41.982285,
+      "longitude": -114.672304
+    },
+    {
+      "number": 854,
+      "city": "Shreveport",
+      "state": "LA",
+      "latitude": 32.595937,
+      "longitude": -93.829384
+    },
+    {
+      "number": 873,
+      "city": "Canon City",
+      "state": "CO",
+      "latitude": 38.449826,
+      "longitude": -105.15618
+    },
+    {
+      "number": 884,
+      "city": "Prescott",
+      "state": "AR",
+      "latitude": 33.827533,
+      "longitude": -93.393831
+    },
+    {
+      "number": 771,
+      "city": "West Point",
+      "state": "GA",
+      "latitude": 32.877702,
+      "longitude": -85.148422
+    },
+    {
+      "number": 887,
+      "city": "Herculaneum",
+      "state": "MO",
+      "latitude": 38.256049,
+      "longitude": -90.404493
+    },
+    {
+      "number": 860,
+      "city": "Picayune",
+      "state": "MS",
+      "latitude": 30.467383,
+      "longitude": -89.687171
+    },
+    {
+      "number": 166,
+      "city": "Muskogee",
+      "state": "OK",
+      "latitude": 35.852881,
+      "longitude": -95.421201
+    },
+    {
+      "number": 167,
+      "city": "Chickasha",
+      "state": "OK",
+      "latitude": 35.081871,
+      "longitude": -97.889421
+    },
+    {
+      "number": 168,
+      "city": "Walters",
+      "state": "OK",
+      "latitude": 34.370171,
+      "longitude": -98.409611
+    },
+    {
+      "number": 169,
+      "city": "Stroud",
+      "state": "OK",
+      "latitude": 35.752191,
+      "longitude": -96.688123
+    },
+    {
+      "number": 170,
+      "city": "Chandler",
+      "state": "OK",
+      "latitude": 35.72777,
+      "longitude": -96.83464
+    },
+    {
+      "number": 171,
+      "city": "McAlester",
+      "state": "OK",
+      "latitude": 34.907161,
+      "longitude": -95.825601
+    },
+    {
+      "number": 173,
+      "city": "Lawrence",
+      "state": "KS",
+      "latitude": 39.019971,
+      "longitude": -95.135161
+    },
+    {
+      "number": 175,
+      "city": "Topeka",
+      "state": "KS",
+      "latitude": 39.019541,
+      "longitude": -95.508871
+    },
+    {
+      "number": 176,
+      "city": "Cassoday",
+      "state": "KS",
+      "latitude": 38.095391,
+      "longitude": -96.579511
+    },
+    {
+      "number": 177,
+      "city": "El Dorado",
+      "state": "KS",
+      "latitude": 37.7661,
+      "longitude": -96.98161
+    },
+    {
+      "number": 178,
+      "city": "Belle Plaine",
+      "state": "KS",
+      "latitude": 37.366031,
+      "longitude": -97.322461
+    },
+    {
+      "number": 875,
+      "city": "Opelousas",
+      "state": "LA",
+      "latitude": 30.478381,
+      "longitude": -92.073696
+    },
+    {
+      "number": 870,
+      "city": "Watertown",
+      "state": "NY",
+      "latitude": 44.002115,
+      "longitude": -75.921886
+    },
+    {
+      "number": 850,
+      "city": "Cortez",
+      "state": "CO",
+      "latitude": 37.312799,
+      "longitude": -108.608295
+    },
+    {
+      "number": 876,
+      "city": "Michigan City",
+      "state": "IN",
+      "latitude": 41.652281,
+      "longitude": -86.895889
+    },
+    {
+      "number": 894,
+      "city": "St Augustine",
+      "state": "FL",
+      "latitude": 29.745791,
+      "longitude": -81.349601
+    },
+    {
+      "number": 504,
+      "city": "North Lima",
+      "state": "OH",
+      "latitude": 40.962632,
+      "longitude": -80.658458
+    },
+    {
+      "number": 569,
+      "city": "Baker City",
+      "state": "OR",
+      "latitude": 44.784961,
+      "longitude": -117.807806
+    },
+    {
+      "number": 550,
+      "city": "Valdosta",
+      "state": "GA",
+      "latitude": 30.774407,
+      "longitude": -83.298368
+    },
+    {
+      "number": 883,
+      "city": "Rural Hall",
+      "state": "NC",
+      "latitude": 36.225136,
+      "longitude": -80.323372
+    },
+    {
+      "number": 555,
+      "city": "Delphos",
+      "state": "OH",
+      "latitude": 40.847803,
+      "longitude": -84.312626
+    },
+    {
+      "number": 425,
+      "city": "Wilmington",
+      "state": "IL",
+      "latitude": 41.32474,
+      "longitude": -88.13405
+    },
+    {
+      "number": 886,
+      "city": "Sarcoxie",
+      "state": "MO",
+      "latitude": 37.076446,
+      "longitude": -94.104167
+    },
+    {
+      "number": 960,
+      "city": "San Antonio",
+      "state": "TX",
+      "latitude": 29.324303,
+      "longitude": -98.432278
+    },
+    {
+      "number": 877,
+      "city": "Cullman",
+      "state": "AL",
+      "latitude": 34.129181,
+      "longitude": -86.864036
+    },
+    {
+      "number": 574,
+      "city": "Elliston",
+      "state": "VA",
+      "latitude": 37.232889,
+      "longitude": -80.234747
+    },
+    {
+      "number": 565,
+      "city": "Hattiesburg",
+      "state": "MS",
+      "latitude": 31.242397,
+      "longitude": -89.302923
+    },
+    {
+      "number": 856,
+      "city": "Mandeville",
+      "state": "LA",
+      "latitude": 30.395171,
+      "longitude": -89.999839
+    },
+    {
+      "number": 959,
+      "city": "Alamosa",
+      "state": "CO",
+      "latitude": 37.471499,
+      "longitude": -105.857969
+    },
+    {
+      "number": 224,
+      "city": "Sterling",
+      "state": "ND",
+      "latitude": 46.840108,
+      "longitude": -100.286974
+    },
+    {
+      "number": 563,
+      "city": "Belmont",
+      "state": "OH",
+      "latitude": 40.056855,
+      "longitude": -81.053671
+    },
+    {
+      "number": 958,
+      "city": "Wichita",
+      "state": "KS",
+      "latitude": 37.723653,
+      "longitude": -97.320776
+    },
+    {
+      "number": 963,
+      "city": "Albuquerque",
+      "state": "NM",
+      "latitude": 35.047758,
+      "longitude": -106.645985
+    },
+    {
+      "number": 964,
+      "city": "Gretna",
+      "state": "FL",
+      "latitude": 30.578341,
+      "longitude": -84.704463
+    },
+    {
+      "number": 965,
+      "city": "Buffalo ",
+      "state": "WY",
+      "latitude": 44.357109,
+      "longitude": -106.662045
+    },
+    {
+      "number": 966,
+      "city": "Jasper ",
+      "state": "MO",
+      "latitude": 37.340655,
+      "longitude": -94.294459
+    },
+    {
+      "number": 968,
+      "city": "Fredericktown",
+      "state": "MO",
+      "latitude": 37.567205,
+      "longitude": -90.323053
+    },
+    {
+      "number": 969,
+      "city": "West Jefferson",
+      "state": "OH",
+      "latitude": 39.956789,
+      "longitude": -83.335457
+    },
+    {
+      "number": 970,
+      "city": "Kingman",
+      "state": "AZ",
+      "latitude": 35.034855,
+      "longitude": -114.134251
+    },
+    {
+      "number": 971,
+      "city": "Winslow",
+      "state": "AZ",
+      "latitude": 35.019187,
+      "longitude": -110.672331
+    },
+    {
+      "number": 972,
+      "city": "Eloy",
+      "state": "AZ",
+      "latitude": 32.773571,
+      "longitude": -111.620632
+    },
+    {
+      "number": 976,
+      "city": "Big Spring ",
+      "state": "TX",
+      "latitude": 32.258997,
+      "longitude": -101.503421
+    },
+    {
+      "number": 978,
+      "city": "Carlin",
+      "state": "NV",
+      "latitude": 40.723881,
+      "longitude": -116.107452
+    },
+    {
+      "number": 980,
+      "city": "Milan Township",
+      "state": "OH",
+      "latitude": 41.321428,
+      "longitude": -82.613894
+    },
+    {
+      "number": 981,
+      "city": "Charleston",
+      "state": "MO",
+      "latitude": 36.919763,
+      "longitude": -89.313925
+    },
+    {
+      "number": 984,
+      "city": "Tulia",
+      "state": "TX",
+      "latitude": 34.528492,
+      "longitude": -101.792691
+    },
+    {
+      "number": 777,
+      "city": "Joliet",
+      "state": "IL",
+      "latitude": 41.510848,
+      "longitude": -88.045194
+    },
+    {
+      "number": 838,
+      "city": "Brighton",
+      "state": "CO",
+      "latitude": 39.999491,
+      "longitude": -104.823782
+    },
+    {
+      "number": 897,
+      "city": "New Iberia",
+      "state": "LA",
+      "latitude": 29.983791,
+      "longitude": -91.861366
+    },
+    {
+      "number": 1035,
+      "city": "Trinidad",
+      "state": "CO",
+      "latitude": 37.226673,
+      "longitude": -104.489311
+    },
+    {
+      "number": 1044,
+      "city": "Rock Falls",
+      "state": "IL",
+      "latitude": 41.754956,
+      "longitude": -89.68727
+    },
+    {
+      "number": 1043,
+      "city": "Laurel ",
+      "state": "MT",
+      "latitude": 45.666098,
+      "longitude": -108.799271
+    },
+    {
+      "number": 1045,
+      "city": "Truth or Consequences",
+      "state": "NM",
+      "latitude": 33.155286,
+      "longitude": -107.258575
+    },
+    {
+      "number": 1048,
+      "city": "Quinton",
+      "state": "AL",
+      "latitude": 33.68023,
+      "longitude": -87.08175
+    },
+    {
+      "number": 1049,
+      "city": "Premont",
+      "state": "TX",
+      "latitude": 27.369419,
+      "longitude": -98.113565
+    },
+    {
+      "number": 40175,
+      "city": "Topeka",
+      "state": "KS",
+      "latitude": 39.019541,
+      "longitude": -95.508871
+    },
+    {
+      "number": 1055,
+      "city": "Delta",
+      "state": "OH",
+      "latitude": 41.588752,
+      "longitude": -84.038556
+    },
+    {
+      "number": 1060,
+      "city": "Casper",
+      "state": "WY",
+      "latitude": 42.896528,
+      "longitude": -106.338107
+    }
+  ]
+}

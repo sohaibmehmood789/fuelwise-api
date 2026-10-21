@@ -1,0 +1,15 @@
+{
+  "source_sha256": "c704371f141ded9c54df6c32d488a0ba2ceb589f88c936c967daa5330e0cd241",
+  "source_rows": 8151,
+  "excluded_non_usa_rows": 620,
+  "usa_quote_rows": 7531,
+  "unique_usa_stations": 6626,
+  "duplicate_quote_rows": 905,
+  "located_stations": 518,
+  "unlocated_stations": 6108,
+  "price_policy": "min-price",
+  "price_decimal_places": 8,
+  "coordinates_source": "Official Love's public location directory; exact chain/store-number/city/state matching.",
+  "coordinate_companion": "station-coordinates.csv",
+  "quote_price_precision_mismatches": 0
+}

@@ -1,0 +1,9 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>US Fuel Planner API</title><style>body{font:16px system-ui;background:#f2f5f8;color:#163147;max-width:850px;margin:60px auto;padding:24px}main{background:white;padding:32px;border-radius:16px}pre{background:#102a3a;color:#d6f7ea;padding:20px;border-radius:8px;overflow:auto}a{color:#066e68}code{font-size:14px}</style></head><body><main><p>US FUEL PLANNER · API v1</p><h1>Plan the drive. Price the fuel.</h1><p>POST USA start and finish locations to receive a verified road route, fuel stops, purchase quantities, trip cost, and a map.</p><pre>POST /api/v1/plan/
+Content-Type: application/json
+
+{
+  "start": "Los Angeles, CA",
+  "finish": "Dallas, TX",
+  "initial_fuel_gallons": 50,
+  "initial_fuel_price_usd": 3.65
+}</pre><p>The vehicle has a 500-mile range, a 50-gallon tank, and achieves 10 mpg. Starting fuel defaults to a full tank. When its price is omitted, the nearest station in the imported dataset supplies an explicitly labeled estimate.</p><p>{% if dataset %}Loaded: {{ dataset.source }}. {% if dataset.report %}{{ dataset.report.unique_usa_stations }} USA stations; {{ dataset.report.located_stations }} have coordinates. Unlocated stations cannot participate in optimization.{% endif %}{% else %}Import the fuel-price CSV before planning.{% endif %}</p><p>Use the returned <code>map_url</code> to open the route. Selected stations are checked against actual road distances, within a maximum of two routing calls. Costs are optimal for the selected ordered waypoints; choosing those waypoints is a heuristic.</p><p><a href="/health/">Health check</a> · See README.md for setup, CSV import, the Postman collection, and API errors.</p><p>© OpenStreetMap contributors · OSRM / FOSSGIS · Photon / komoot</p></main></body></html>

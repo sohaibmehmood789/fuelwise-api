@@ -1,0 +1,6 @@
+id,name,address,city,state,price,latitude,longitude
+sample-1,SAMPLE ONLY - road point 1,"Synthetic point on a road, not a verified fuel station",Demo corridor,AZ,3.1990,33.674134,-114.135662
+sample-2,SAMPLE ONLY - road point 2,"Synthetic point on a road, not a verified fuel station",Demo corridor,AZ,3.5990,32.080302,-110.803756
+sample-3,SAMPLE ONLY - road point 3,"Synthetic point on a road, not a verified fuel station",Demo corridor,NM,2.9990,32.270402,-106.934283
+sample-4,SAMPLE ONLY - road point 4,"Synthetic point on a road, not a verified fuel station",Demo corridor,TX,3.3990,31.367218,-103.669366
+sample-5,SAMPLE ONLY - road point 5,"Synthetic point on a road, not a verified fuel station",Demo corridor,TX,3.8990,32.465823,-99.821808

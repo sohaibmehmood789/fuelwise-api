@@ -1,0 +1,30 @@
+@base_url = http://127.0.0.1:8000
+
+### Health
+GET {{base_url}}/health/
+
+### Plan a multi-stop journey (requires station coverage)
+POST {{base_url}}/api/v1/plan/
+Content-Type: application/json
+
+{
+  "start": "Los Angeles, CA",
+  "finish": "Dallas, TX",
+  "initial_fuel_price_usd": 3.65
+}
+
+### Repeat the request above to see zero external calls
+POST {{base_url}}/api/v1/plan/
+Content-Type: application/json
+
+{
+  "start": "Los Angeles, CA",
+  "finish": "Dallas, TX",
+  "initial_fuel_price_usd": 3.65
+}
+
+### Invalid tank capacity
+POST {{base_url}}/api/v1/plan/
+Content-Type: application/json
+
+{"start":"Los Angeles, CA","finish":"Dallas, TX","initial_fuel_gallons":51}

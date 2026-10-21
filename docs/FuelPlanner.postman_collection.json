@@ -1,0 +1,200 @@
+{
+  "info": {
+    "name": "US Fuel Planner",
+    "description": "Django fuel-planning API. Import the supplied assessment CSV and coordinate companion first. Coverage: 518 located stations out of 6,626 USA stations; remaining unlocated records are excluded from optimization. Routing calls exclude geocoding; see README.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:8000"
+    },
+    {
+      "key": "map_path",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/health/"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Healthy\", () => pm.response.to.have.status(200));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plan route",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/plan/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"Dallas, TX\",\n  \"initial_fuel_price_usd\": 3.65\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Plan succeeded\", () => pm.response.to.have.status(200));",
+              "if (pm.response.code === 200) {",
+              " const data = pm.response.json();",
+              " pm.collectionVariables.set(\"map_path\", data.map_url);",
+              " pm.test(\"At most two routing calls\", () => pm.expect(data.meta.external_calls.routing).to.be.at.most(2));",
+              " pm.test(\"Valid tank schedule\", () => data.fuel_stops.forEach(s => { pm.expect(s.arrival_fuel_gallons).to.be.at.least(0); pm.expect(s.departure_fuel_gallons).to.be.at.most(50); }));",
+              " pm.test(\"Fuel is conserved\", () => pm.expect(data.vehicle.initial_fuel_gallons + data.fuel.gallons_purchased - data.fuel.gallons_consumed).to.be.closeTo(data.fuel.arrival_fuel_gallons, 0.00001));",
+              " pm.test(\"Purchase costs reconcile\", () => pm.expect(data.fuel_stops.reduce((total,s) => total + Number(s.cost_usd), 0)).to.be.closeTo(Number(data.fuel.total_money_spent_usd), 0.001));",
+              " console.log(\"Open map:\", pm.collectionVariables.get(\"base_url\") + data.map_url);",
+              "}"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Repeat plan - verify cache",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/plan/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"Dallas, TX\",\n  \"initial_fuel_price_usd\": 3.65\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Plan succeeded\", () => pm.response.to.have.status(200));",
+              "if (pm.response.code === 200) { const data = pm.response.json(); pm.test(\"Cached with zero external calls\", () => { pm.expect(data.meta.plan_cache_hit).to.eql(true); pm.expect(data.meta.external_calls.routing + data.meta.external_calls.geocoding).to.eql(0); }); }"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "View returned map",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}{{map_path}}"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"HTML map\", () => { pm.response.to.have.status(200); pm.expect(pm.response.headers.get(\"Content-Type\")).to.include(\"text/html\"); });"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Invalid starting fuel",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/plan/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"Dallas, TX\",\n  \"initial_fuel_price_usd\": 3.65,\n  \"initial_fuel_gallons\": 51\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Invalid input rejected\", () => pm.response.to.have.status(400));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Short trip - no purchase",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{base_url}}/api/v1/plan/",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"start\": \"Los Angeles, CA\",\n  \"finish\": \"San Diego, CA\",\n  \"initial_fuel_price_usd\": 3.65\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        }
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Short trip succeeds\", () => pm.response.to.have.status(200));",
+              "if (pm.response.code === 200) pm.test(\"No purchases needed\", () => pm.expect(pm.response.json().fuel_stops).to.have.length(0));"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

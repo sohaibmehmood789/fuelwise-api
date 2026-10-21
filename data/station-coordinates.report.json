@@ -1,0 +1,11 @@
+{
+  "source": "https://www.loves.com/locations",
+  "source_endpoint": "https://www.loves.com/api/fetch_stores",
+  "input_records": 734,
+  "matched_stations": 518,
+  "matching_rule": "Exact chain + store number + state + normalized city; unique assessment station ID only.",
+  "conflicts_excluded": [],
+  "prices": "No live chain prices imported. All prices come from the supplied assessment CSV.",
+  "coverage": "Partial: only confidently matched Love's stations. Other CSV stations remain unlocated.",
+  "coordinates": "Official published location point; road snapping does not guarantee station driveway access."
+}
